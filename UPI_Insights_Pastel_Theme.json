@@ -1,0 +1,76 @@
+{
+  "name": "UPI Insights Pastel",
+  "dataColors": [
+    "#2F5F5B",
+    "#3E7C77",
+    "#5C9C98",
+    "#7FB3B0",
+    "#A2C9C6",
+    "#C4DEDC",
+    "#DCEBE9",
+    "#EAF3F2"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#3A3A3A",
+  "tableAccent": "#7FB3B0",
+  "good": "#3E7C77",
+  "neutral": "#A2C9C6",
+  "bad": "#2F5F5B",
+  "maximum": "#2F5F5B",
+  "center": "#7FB3B0",
+  "minimum": "#EAF3F2",
+  "null": "#D9D9D9",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FBFAF8" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E5E0D8" } },
+            "radius": 8
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F5F3EF" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#3A3A3A" } },
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#8A8580" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#3A3A3A"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#5A5550"
+    }
+  }
+}

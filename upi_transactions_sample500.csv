@@ -1,0 +1,501 @@
+﻿transaction_id,timestamp,amount,sender_bank,receiver_bank,payer_vpa,payee_vpa,merchant_id,merchant_category,transaction_type,status,failure_reason,state,city,device_channel
+TXN735F7E7C0DA2,2025-01-01 00:13:14.000000000,866.39,HDFC Bank,IndusInd Bank,ucchalarora111@okicici,e-commerce1967440@paytm,M01967,E-commerce,P2M,Failed,Invalid VPA,Uttar Pradesh,Kanpur,Paytm
+TXNFE90EFAA93D2,2025-01-01 00:17:23.000000000,1233.76,Axis Bank,Axis Bank,qasimtripathi587@ybl,utility1948991@upi,M01948,Utility Bills,P2M,Success,,Punjab,Ludhiana,Google Pay
+TXN85C26ECCA711,2025-01-01 00:35:04.000000000,469.88,Axis Bank,Union Bank of India,abeertata991@ybl,utility92319@ybl,M00923,Utility Bills,P2M,Success,,Gujarat,Surat,Google Pay
+TXN5FF23CEC0AF6,2025-01-01 00:43:01.000000000,982.17,Canara Bank,ICICI Bank,shauryavenkataraman379@okhdfcbank,user65028@paytm,,P2P Transfer,P2P,Success,,Kerala,Kochi,PhonePe
+TXN5FDC896DDEEB,2025-01-01 01:31:43.000000000,1129.88,ICICI Bank,Punjab National Bank,gunbirwali368@upi,e-commerce1312522@ybl,M01312,E-commerce,P2M,Success,,Maharashtra,Nashik,BHIM
+TXNE9E55ACD9CB3,2025-01-01 02:11:13.000000000,452.68,Axis Bank,Kotak Mahindra Bank,vanshamukherjee24@paytm,pharmacy1044536@okaxis,M01044,Pharmacy,P2M,Success,,Punjab,Amritsar,Paytm
+TXN4C19B74F2217,2025-01-01 02:15:50.000000000,646.3,HDFC Bank,ICICI Bank,chakradharrastogi97@okicici,fuel11603@okaxis,M01160,Fuel,P2M,Success,,Kerala,Kochi,Paytm
+TXN5C54CB31694E,2025-01-01 02:21:46.000000000,1151.27,Yes Bank,State Bank of India,ekalingachahal508@ybl,grocery1411138@oksbi,M01411,Grocery,P2M,Success,,Gujarat,Surat,Paytm
+TXNCB18D1C6F1B7,2025-01-01 02:30:35.000000000,715.69,Axis Bank,ICICI Bank,champakwalia182@okhdfcbank,food1478773@upi,M01478,Food Delivery,P2M,Success,,West Bengal,Siliguri,Google Pay
+TXN310B11F5FA31,2025-01-01 02:39:43.000000000,10.0,Yes Bank,Punjab National Bank,bhavnaganesh905@paytm,grocery2070607@okicici,M02070,Grocery,P2M,Success,,Delhi,Dwarka,PhonePe
+TXN55462C56FDDD,2025-01-01 02:39:44.000000000,291.33,Bank of Baroda,Punjab National Bank,iryachar309@okaxis,user76096@paytm,,P2P Transfer,P2P,Success,,Uttar Pradesh,Lucknow,Google Pay
+TXNECC2D8A4965C,2025-01-01 02:40:37.000000000,1048.32,Punjab National Bank,Punjab National Bank,qadimsarna107@ybl,food194209@okicici,M00194,Food Delivery,P2M,Success,,Delhi,New Delhi,Google Pay
+TXN406BE0F53CE7,2025-01-01 02:50:15.000000000,379.3,Kotak Mahindra Bank,Punjab National Bank,indrajitsha825@upi,food901827@okaxis,M00901,Food Delivery,P2M,Success,,Gujarat,Vadodara,Bank App
+TXN2014BC9D1760,2025-01-01 03:03:16.000000000,606.21,IndusInd Bank,Bank of Baroda,tanishsura83@ybl,fuel33751@paytm,M00033,Fuel,P2M,Success,,Delhi,Rohini,Google Pay
+TXNB4CDD66A9913,2025-01-01 03:12:14.000000000,952.47,ICICI Bank,Punjab National Bank,yashicamahal683@oksbi,e-commerce1810967@okicici,M01810,E-commerce,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXNEFB8A0FD4C85,2025-01-01 03:37:47.000000000,778.56,Axis Bank,ICICI Bank,ikbalbhatnagar473@okaxis,fuel1054759@oksbi,M01054,Fuel,P2M,Success,,Delhi,Rohini,BHIM
+TXN93CB60D53D43,2025-01-01 04:02:05.000000000,1058.81,IndusInd Bank,Punjab National Bank,gaganmammen847@okaxis,utility1616360@oksbi,M01616,Utility Bills,P2M,Success,,West Bengal,Siliguri,Paytm
+TXNC9D38A279556,2025-01-01 04:07:21.000000000,258.63,Punjab National Bank,State Bank of India,niharikabahl251@ybl,food1644199@okaxis,M01644,Food Delivery,P2M,Success,,Telangana,Warangal,Bank App
+TXNC025E29B94FD,2025-01-01 04:09:46.000000000,1243.12,Axis Bank,Kotak Mahindra Bank,ishanisandal601@paytm,grocery1572945@okaxis,M01572,Grocery,P2M,Success,,Madhya Pradesh,Gwalior,BHIM
+TXNA9BED3B36944,2025-01-01 04:24:29.000000000,452.62,Punjab National Bank,Union Bank of India,matthewchowdhury11@paytm,food1288198@okhdfcbank,M01288,Food Delivery,P2M,Success,,Odisha,Bhubaneswar,Paytm
+TXN8ADE7351AEDA,2025-01-01 04:27:25.000000000,797.75,Yes Bank,State Bank of India,chaitalychoudhary928@ybl,food924453@okhdfcbank,M00924,Food Delivery,P2M,Success,,West Bengal,Siliguri,Google Pay
+TXNCF8CC356A223,2025-01-01 04:30:15.000000000,395.74,Yes Bank,HDFC Bank,amolpradhan140@upi,pharmacy1901478@okhdfcbank,M01901,Pharmacy,P2M,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN20AEFC662B23,2025-01-01 04:32:53.000000000,403.13,Bank of Baroda,HDFC Bank,bachittarraja251@okicici,fuel11603@okaxis,M01160,Fuel,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXNDA84162D1504,2025-01-01 04:41:04.000000000,1062.92,State Bank of India,HDFC Bank,onivirk568@ybl,fuel88917@oksbi,M00889,Fuel,P2M,Success,,West Bengal,Kolkata,PhonePe
+TXN694534EFCDB3,2025-01-01 04:44:05.000000000,699.79,Bank of Baroda,Yes Bank,yashmaster379@oksbi,pharmacy1067475@upi,M01067,Pharmacy,P2M,Success,,Telangana,Warangal,Google Pay
+TXN898C62732F0B,2025-01-01 05:05:02.000000000,751.01,ICICI Bank,State Bank of India,bhavinighosh737@oksbi,grocery2142302@oksbi,M02142,Grocery,P2M,Failed,Insufficient balance,Uttar Pradesh,Kanpur,PhonePe
+TXND4A30AB838FE,2025-01-01 05:13:44.000000000,943.72,HDFC Bank,Kotak Mahindra Bank,danielsanghvi269@okaxis,utility116646@oksbi,M00116,Utility Bills,P2M,Success,,Maharashtra,Mumbai,Bank App
+TXNCCE36874F975,2025-01-01 05:16:25.000000000,150.85,HDFC Bank,Canara Bank,loganbail377@oksbi,user50127@ybl,,P2P Transfer,P2P,Success,,Maharashtra,Mumbai,PhonePe
+TXNC6A7DEBE576A,2025-01-01 05:19:03.000000000,1124.18,Bank of Baroda,ICICI Bank,jaikota391@okaxis,utility1527673@ybl,M01527,Utility Bills,P2M,Success,,Delhi,New Delhi,PhonePe
+TXN9FE76CCE0A36,2025-01-01 05:28:28.000000000,994.45,Axis Bank,IndusInd Bank,benjaminkumer284@ybl,user71435@paytm,,P2P Transfer,P2P,Success,,Tamil Nadu,Madurai,Paytm
+TXNAA73337FAE97,2025-01-01 05:39:55.000000000,146.83,HDFC Bank,Axis Bank,loganmittal58@ybl,grocery333763@upi,M00333,Grocery,P2M,Success,,Delhi,Dwarka,Google Pay
+TXN33399A989320,2025-01-01 05:52:13.000000000,87.29,HDFC Bank,Axis Bank,jairajchoudhury40@ybl,food1047347@oksbi,M01047,Food Delivery,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXNAF0FE7DA0314,2025-01-01 06:00:24.000000000,452.08,ICICI Bank,IndusInd Bank,mohininadkarni564@ybl,fuel16362@okhdfcbank,M01636,Fuel,P2M,Success,,Tamil Nadu,Coimbatore,PhonePe
+TXN60CDC8732991,2025-01-01 06:00:50.000000000,904.24,HDFC Bank,ICICI Bank,ijayaravi869@okhdfcbank,e-commerce171269@ybl,M01712,E-commerce,P2M,Success,,Maharashtra,Pune,Google Pay
+TXNBBC0A65E9240,2025-01-01 06:05:39.000000000,1465.7,State Bank of India,HDFC Bank,mayabumb90@oksbi,e-commerce491943@okicici,M00491,E-commerce,P2M,Success,,Maharashtra,Nagpur,Bank App
+TXN3168E0830CDB,2025-01-01 06:10:13.000000000,1140.0,Kotak Mahindra Bank,HDFC Bank,darpanmand603@upi,e-commerce1045323@okaxis,M01045,E-commerce,P2M,Success,,Maharashtra,Nagpur,PhonePe
+TXN7F70F3629189,2025-01-01 06:17:07.000000000,570.59,State Bank of India,HDFC Bank,aryannarain644@okaxis,food190291@okhdfcbank,M00190,Food Delivery,P2M,Success,,Bihar,Gaya,Google Pay
+TXN08824A3C49E8,2025-01-01 06:19:10.000000000,575.91,HDFC Bank,HDFC Bank,fiyazravel935@ybl,user33045@oksbi,,P2P Transfer,P2P,Success,,Haryana,Panipat,Google Pay
+TXN00BA019D3B44,2025-01-01 06:22:35.000000000,511.14,Punjab National Bank,ICICI Bank,kalpitapte502@oksbi,food690181@upi,M00690,Food Delivery,P2M,Success,,Rajasthan,Udaipur,PhonePe
+TXN12C8E95B1878,2025-01-01 06:22:58.000000000,1063.52,Punjab National Bank,Axis Bank,lipikarai578@okhdfcbank,fuel1696393@okicici,M01696,Fuel,P2M,Success,,Tamil Nadu,Madurai,Paytm
+TXNAB77BE8425D3,2025-01-01 06:27:12.000000000,202.53,Union Bank of India,Punjab National Bank,zashilarora179@ybl,user15898@okhdfcbank,,P2P Transfer,P2P,Success,,Uttar Pradesh,Varanasi,Google Pay
+TXN746B77939A3B,2025-01-01 06:35:45.000000000,392.88,Kotak Mahindra Bank,HDFC Bank,dayitabhattacharyya567@paytm,user83801@oksbi,,P2P Transfer,P2P,Success,,Tamil Nadu,Chennai,Paytm
+TXN5CA4385A5569,2025-01-01 06:39:24.000000000,209.29,IndusInd Bank,HDFC Bank,siyabarman749@okhdfcbank,grocery175232@upi,M00175,Grocery,P2M,Success,,Odisha,Cuttack,Google Pay
+TXNECCD06FF48B2,2025-01-01 06:43:09.000000000,1945.12,Axis Bank,Axis Bank,shauryasarna972@paytm,travel639641@okicici,M00639,Travel,P2M,Success,,Telangana,Warangal,Bank App
+TXNA72EDE5CB76A,2025-01-01 06:48:57.000000000,300.91,ICICI Bank,HDFC Bank,dhritibhagat119@okhdfcbank,user3627@paytm,,P2P Transfer,P2P,Success,,Delhi,Dwarka,Paytm
+TXN57221160FF5D,2025-01-01 06:49:10.000000000,509.97,Bank of Baroda,Kotak Mahindra Bank,mitalimajumdar580@okicici,food1530202@upi,M01530,Food Delivery,P2M,Success,,Rajasthan,Udaipur,Google Pay
+TXN1B7A3D35AE6A,2025-01-01 06:58:57.000000000,129.63,ICICI Bank,State Bank of India,michaelmohanty119@upi,user55192@oksbi,,P2P Transfer,P2P,Success,,Kerala,Kozhikode,PhonePe
+TXN5C3A22FBFE18,2025-01-01 06:59:32.000000000,411.25,State Bank of India,Kotak Mahindra Bank,waidabumb929@oksbi,entertainment139653@upi,M01396,Entertainment,P2M,Success,,Tamil Nadu,Madurai,PhonePe
+TXNDCF993E8A6F0,2025-01-01 07:00:47.000000000,152.51,Axis Bank,State Bank of India,adyakota753@okaxis,food1743373@okicici,M01743,Food Delivery,P2M,Success,,Madhya Pradesh,Gwalior,PhonePe
+TXN58C98349221B,2025-01-01 07:02:30.000000000,1200.69,IndusInd Bank,Kotak Mahindra Bank,lekhaborra456@okhdfcbank,utility60356@oksbi,M00603,Utility Bills,P2M,Failed,Bank server down,Madhya Pradesh,Bhopal,Google Pay
+TXN2605FE53604C,2025-01-01 07:02:36.000000000,477.04,Punjab National Bank,IndusInd Bank,madhavitaneja725@okaxis,entertainment1981517@okaxis,M01981,Entertainment,P2M,Failed,Bank server down,Tamil Nadu,Madurai,Google Pay
+TXNC0EF498F657A,2025-01-01 07:07:16.000000000,481.0,Kotak Mahindra Bank,Axis Bank,arunimaiyer283@okicici,grocery1589200@ybl,M01589,Grocery,P2M,Success,,Rajasthan,Jodhpur,PhonePe
+TXN8E1B5E2614EE,2025-01-01 07:08:19.000000000,502.04,Bank of Baroda,ICICI Bank,kashvihegde984@paytm,grocery1040575@okaxis,M01040,Grocery,P2M,Failed,Incorrect PIN,West Bengal,Siliguri,PhonePe
+TXND50E233DEEBA,2025-01-01 07:08:37.000000000,412.67,Punjab National Bank,Bank of Baroda,kamalaarya839@okicici,pharmacy558786@okicici,M00558,Pharmacy,P2M,Failed,Bank server down,Maharashtra,Nagpur,PhonePe
+TXNEBE3B22A05BD,2025-01-01 07:11:23.000000000,1516.1,State Bank of India,Canara Bank,zaitrakala461@upi,e-commerce317330@oksbi,M00317,E-commerce,P2M,Success,,Kerala,Kochi,Bank App
+TXNBE32748AEB16,2025-01-01 07:11:23.000000000,369.99,State Bank of India,ICICI Bank,madhavsibal138@paytm,food785971@okaxis,M00785,Food Delivery,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXN2842ABE7B3C5,2025-01-01 07:12:14.000000000,184.1,Axis Bank,Kotak Mahindra Bank,mitalibassi720@ybl,grocery371511@ybl,M00371,Grocery,P2M,Success,,Tamil Nadu,Chennai,Bank App
+TXN6261A357E960,2025-01-01 07:12:45.000000000,1176.87,Bank of Baroda,Canara Bank,miteshbanik738@okaxis,e-commerce1954898@paytm,M01954,E-commerce,P2M,Success,,Haryana,Panipat,PhonePe
+TXNA97C1EA5EF65,2025-01-01 07:14:36.000000000,816.83,ICICI Bank,ICICI Bank,urmiluthra848@okhdfcbank,grocery485493@okicici,M00485,Grocery,P2M,Success,,Uttar Pradesh,Kanpur,BHIM
+TXNE3201F7E300B,2025-01-01 07:16:24.000000000,569.44,HDFC Bank,ICICI Bank,qushivenkataraman14@oksbi,food1218911@ybl,M01218,Food Delivery,P2M,Success,,Maharashtra,Pune,PhonePe
+TXN3B7DB4B1B2FE,2025-01-01 07:16:40.000000000,324.91,ICICI Bank,Axis Bank,oscarmall325@paytm,utility74173@upi,M00741,Utility Bills,P2M,Success,,Telangana,Warangal,Google Pay
+TXN3012210844DD,2025-01-01 07:17:10.000000000,414.07,IndusInd Bank,Axis Bank,aadhyajani498@paytm,food1819497@okicici,M01819,Food Delivery,P2M,Failed,Insufficient balance,Haryana,Gurugram,PhonePe
+TXN1068F3CF25BE,2025-01-01 07:19:14.000000000,577.86,HDFC Bank,State Bank of India,rehaanbhatia120@okicici,grocery921888@oksbi,M00921,Grocery,P2M,Success,,Madhya Pradesh,Gwalior,Google Pay
+TXNF5F17125C888,2025-01-01 07:19:51.000000000,10.0,IndusInd Bank,ICICI Bank,tejasbarman777@oksbi,e-commerce259271@okhdfcbank,M00259,E-commerce,P2M,Success,,Gujarat,Vadodara,PhonePe
+TXN42627558A379,2025-01-01 07:21:07.000000000,349.85,State Bank of India,State Bank of India,lekharaja360@okhdfcbank,food1880933@ybl,M01880,Food Delivery,P2M,Success,,Telangana,Hyderabad,Paytm
+TXNBCD6CBB44DE5,2025-01-01 07:21:19.000000000,584.63,ICICI Bank,IndusInd Bank,riyabatta47@okaxis,food1202639@paytm,M01202,Food Delivery,P2M,Success,,Uttar Pradesh,Varanasi,Google Pay
+TXNB2041FF788B9,2025-01-01 07:22:37.000000000,534.51,Punjab National Bank,ICICI Bank,qabilchand232@oksbi,fuel1085731@upi,M01085,Fuel,P2M,Success,,Delhi,New Delhi,Paytm
+TXN03861604D6A4,2025-01-01 07:23:36.000000000,288.78,State Bank of India,IndusInd Bank,harrisonvala785@oksbi,grocery966402@upi,M00966,Grocery,P2M,Failed,Bank server down,Uttar Pradesh,Varanasi,Bank App
+TXN76565FD5579F,2025-01-01 07:24:39.000000000,573.5,State Bank of India,HDFC Bank,isaiahsachdev463@oksbi,fuel340770@ybl,M00340,Fuel,P2M,Success,,Bihar,Patna,Google Pay
+TXN90786201F3B2,2025-01-01 07:27:19.000000000,3281.6,HDFC Bank,Bank of Baroda,neelimasarna647@upi,travel896624@okicici,M00896,Travel,P2M,Success,,Karnataka,Bengaluru,Paytm
+TXN352F62183BD1,2025-01-01 07:27:53.000000000,570.8,HDFC Bank,IndusInd Bank,arjunchahal445@upi,fuel525643@okaxis,M00525,Fuel,P2M,Success,,Haryana,Faridabad,Paytm
+TXN49CEC97FCF82,2025-01-01 07:30:35.000000000,990.81,Bank of Baroda,State Bank of India,yashasvisahni676@okicici,utility2091750@okhdfcbank,M02091,Utility Bills,P2M,Success,,Delhi,New Delhi,PhonePe
+TXN55ED5E474FE3,2025-01-01 07:33:44.000000000,738.57,State Bank of India,HDFC Bank,sairout642@okhdfcbank,fuel1347331@paytm,M01347,Fuel,P2M,Success,,Bihar,Gaya,PhonePe
+TXN3DF7C07438F6,2025-01-01 07:34:21.000000000,483.56,Punjab National Bank,Bank of Baroda,mitalibatta728@oksbi,user84769@oksbi,,P2P Transfer,P2P,Success,,Telangana,Warangal,PhonePe
+TXNB2E8231C19D2,2025-01-01 07:34:53.000000000,545.3,Axis Bank,State Bank of India,gangapillai832@upi,utility1755637@okicici,M01755,Utility Bills,P2M,Success,,Madhya Pradesh,Indore,Google Pay
+TXN9761D2B01328,2025-01-01 07:35:06.000000000,2541.89,State Bank of India,State Bank of India,hemataneja978@ybl,travel1876216@okaxis,M01876,Travel,P2M,Success,,Gujarat,Surat,Paytm
+TXN34172917CE33,2025-01-01 07:35:36.000000000,508.54,ICICI Bank,HDFC Bank,fredericksandal803@okaxis,food623721@oksbi,M00623,Food Delivery,P2M,Success,,Gujarat,Surat,Google Pay
+TXN446F8726DF03,2025-01-01 07:38:59.000000000,251.8,HDFC Bank,HDFC Bank,pushtimane515@upi,user3394@oksbi,,P2P Transfer,P2P,Success,,Karnataka,Mysuru,PhonePe
+TXN6D09FE8E678F,2025-01-01 07:40:03.000000000,1015.48,ICICI Bank,Canara Bank,samueldevi63@ybl,grocery1138812@paytm,M01138,Grocery,P2M,Success,,Tamil Nadu,Chennai,Google Pay
+TXN6A7CABEE2A39,2025-01-01 07:41:30.000000000,1031.53,HDFC Bank,State Bank of India,hiralmurty861@ybl,travel1057193@okicici,M01057,Travel,P2M,Success,,Maharashtra,Nagpur,PhonePe
+TXN942618506D4C,2025-01-01 07:42:00.000000000,1121.21,Canara Bank,Kotak Mahindra Bank,zashilbir834@okicici,fuel292280@ybl,M00292,Fuel,P2M,Success,,Rajasthan,Udaipur,PhonePe
+TXN0D3A3ED2647A,2025-01-01 07:43:19.000000000,965.48,HDFC Bank,ICICI Bank,rishigoyal433@okhdfcbank,fuel384666@ybl,M00384,Fuel,P2M,Success,,Telangana,Warangal,PhonePe
+TXN42D2ABB51B3E,2025-01-01 07:44:13.000000000,378.51,HDFC Bank,Punjab National Bank,petersundaram691@ybl,e-commerce1271172@okhdfcbank,M01271,E-commerce,P2M,Success,,Haryana,Panipat,Google Pay
+TXN9667D2EDA042,2025-01-01 07:45:22.000000000,730.79,Bank of Baroda,HDFC Bank,manandugar627@ybl,fuel1699577@upi,M01699,Fuel,P2M,Success,,Delhi,Rohini,Google Pay
+TXNC23AF66285AE,2025-01-01 07:46:06.000000000,542.34,Yes Bank,Yes Bank,janyamanne581@oksbi,grocery188909@oksbi,M00188,Grocery,P2M,Success,,Madhya Pradesh,Gwalior,Google Pay
+TXN5ADAF92AE56B,2025-01-01 07:46:47.000000000,367.28,Axis Bank,Yes Bank,aadirout822@oksbi,pharmacy237431@okaxis,M00237,Pharmacy,P2M,Success,,Telangana,Warangal,PhonePe
+TXNE47D55045D93,2025-01-01 07:47:53.000000000,505.57,HDFC Bank,Yes Bank,anirudhsood29@oksbi,grocery1526400@okicici,M01526,Grocery,P2M,Success,,Bihar,Patna,Paytm
+TXN238AC2B0441E,2025-01-01 07:47:55.000000000,641.98,HDFC Bank,State Bank of India,rushilmall243@upi,grocery316622@upi,M00316,Grocery,P2M,Success,,Maharashtra,Nashik,Bank App
+TXN3492536E191F,2025-01-01 07:48:11.000000000,707.92,Canara Bank,State Bank of India,nimratmaharaj792@ybl,grocery1293386@okicici,M01293,Grocery,P2M,Success,,Bihar,Patna,PhonePe
+TXN62F8BB3E1B3F,2025-01-01 07:48:37.000000000,758.62,ICICI Bank,Yes Bank,aadhyaapte431@ybl,pharmacy570738@paytm,M00570,Pharmacy,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXNAF33BD45C697,2025-01-01 07:49:50.000000000,716.84,Union Bank of India,HDFC Bank,sanyabhatia103@oksbi,fuel157663@paytm,M01576,Fuel,P2M,Success,,Karnataka,Mangaluru,Bank App
+TXNF0E1F9AC71A2,2025-01-01 07:51:48.000000000,780.9,ICICI Bank,Yes Bank,rayaandayal118@ybl,grocery865487@okaxis,M00865,Grocery,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXNEA829A937EC9,2025-01-01 07:51:52.000000000,484.74,Punjab National Bank,Bank of Baroda,bahadurjitbumb887@okhdfcbank,user45243@oksbi,,P2P Transfer,P2P,Success,,Assam,Guwahati,PhonePe
+TXN75C508329691,2025-01-01 07:52:08.000000000,488.15,IndusInd Bank,Union Bank of India,gautamsuresh521@oksbi,food62407@ybl,M00062,Food Delivery,P2M,Success,,Telangana,Warangal,Google Pay
+TXN551882CA8907,2025-01-01 07:52:24.000000000,1423.03,Yes Bank,Bank of Baroda,pallaviganesh142@paytm,e-commerce2050200@okhdfcbank,M02050,E-commerce,P2M,Success,,Haryana,Gurugram,PhonePe
+TXNC796D4373DDF,2025-01-01 07:54:46.000000000,478.64,IndusInd Bank,State Bank of India,chasmumahuja325@paytm,food1224572@upi,M01224,Food Delivery,P2M,Success,,Haryana,Faridabad,Paytm
+TXNF1D4DDF78BD0,2025-01-01 07:54:56.000000000,669.05,Punjab National Bank,Axis Bank,matthewrajagopal518@okhdfcbank,utility1400760@oksbi,M01400,Utility Bills,P2M,Success,,Rajasthan,Udaipur,Bank App
+TXN3C418D611417,2025-01-01 07:56:46.000000000,790.55,ICICI Bank,ICICI Bank,labansibal526@oksbi,entertainment121713@paytm,M01217,Entertainment,P2M,Success,,Madhya Pradesh,Indore,Paytm
+TXN2D006AEC1536,2025-01-01 07:58:45.000000000,10.0,HDFC Bank,ICICI Bank,bhavanibera880@paytm,travel1823157@okhdfcbank,M01823,Travel,P2M,Success,,Karnataka,Mysuru,Google Pay
+TXNA0C1131DFA09,2025-01-01 07:59:13.000000000,1410.42,Canara Bank,ICICI Bank,geetikagokhale297@upi,grocery140219@okaxis,M01402,Grocery,P2M,Success,,Gujarat,Ahmedabad,Google Pay
+TXN7B28D1E3CEF5,2025-01-01 08:00:31.000000000,979.92,Bank of Baroda,Union Bank of India,tristanmangal714@okaxis,fuel292280@ybl,M00292,Fuel,P2M,Success,,Bihar,Patna,BHIM
+TXND87AB6AE9B08,2025-01-01 08:01:24.000000000,231.75,Kotak Mahindra Bank,HDFC Bank,omajabhat526@paytm,entertainment1795849@okhdfcbank,M01795,Entertainment,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXNF9F8011E0A9B,2025-01-01 08:02:40.000000000,474.93,State Bank of India,Union Bank of India,hemangseshadri238@ybl,user92557@okhdfcbank,,P2P Transfer,P2P,Success,,Maharashtra,Nashik,Google Pay
+TXN44D32DCF8E78,2025-01-01 08:03:36.000000000,34.95,Axis Bank,State Bank of India,devvarma131@ybl,e-commerce794430@paytm,M00794,E-commerce,P2M,Success,,Rajasthan,Jodhpur,PhonePe
+TXN7825A92C096E,2025-01-01 08:04:21.000000000,204.8,ICICI Bank,State Bank of India,pratyushsharaf945@paytm,grocery1789160@upi,M01789,Grocery,P2M,Success,,Uttar Pradesh,Noida,Google Pay
+TXNFFCE56FDD73D,2025-01-01 08:04:24.000000000,539.17,Canara Bank,Axis Bank,sarthaksagar605@okaxis,grocery759228@okhdfcbank,M00759,Grocery,P2M,Success,,Telangana,Warangal,Paytm
+TXN8810A8EA508E,2025-01-01 08:05:32.000000000,1028.64,Axis Bank,State Bank of India,manbirbhakta722@okicici,user23445@ybl,,P2P Transfer,P2P,Success,,Karnataka,Bengaluru,Paytm
+TXN1E4CF16AAEFB,2025-01-01 08:07:07.000000000,561.24,Axis Bank,State Bank of India,iryadeo149@okicici,grocery825549@oksbi,M00825,Grocery,P2M,Success,,West Bengal,Kolkata,PhonePe
+TXN5D9042BCDAC2,2025-01-01 08:07:07.000000000,1129.73,State Bank of India,State Bank of India,riyapai138@paytm,utility1688865@oksbi,M01688,Utility Bills,P2M,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN572737147C89,2025-01-01 08:07:52.000000000,1014.28,Axis Bank,State Bank of India,timothykala674@paytm,grocery371511@ybl,M00371,Grocery,P2M,Success,,Odisha,Bhubaneswar,Google Pay
+TXN1667AB9734E2,2025-01-01 08:08:02.000000000,496.32,Yes Bank,Axis Bank,geetikanagi132@paytm,user41316@okhdfcbank,,P2P Transfer,P2P,Success,,Maharashtra,Pune,Google Pay
+TXN8B2ED4A830B4,2025-01-01 08:09:23.000000000,699.41,Yes Bank,IndusInd Bank,hemanibhardwaj928@ybl,e-commerce1336814@oksbi,M01336,E-commerce,P2M,Success,,Telangana,Hyderabad,Paytm
+TXN923EBD35C514,2025-01-01 08:10:15.000000000,1394.66,IndusInd Bank,Punjab National Bank,qasimsawhney195@okicici,e-commerce104611@ybl,M00104,E-commerce,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXN8E6A8DD2FE97,2025-01-01 08:10:24.000000000,773.47,Canara Bank,Axis Bank,sanyasekhon641@oksbi,fuel510135@oksbi,M00510,Fuel,P2M,Success,,Karnataka,Bengaluru,Paytm
+TXN06DF9B212DF5,2025-01-01 08:12:00.000000000,10.0,State Bank of India,State Bank of India,miteshbassi857@okicici,travel653236@paytm,M00653,Travel,P2M,Success,,Maharashtra,Pune,Paytm
+TXN6E1EC92675ED,2025-01-01 08:12:10.000000000,272.99,Canara Bank,Kotak Mahindra Bank,vamakshinaik454@upi,fuel935441@okhdfcbank,M00935,Fuel,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXN38DAEB65399C,2025-01-01 08:12:58.000000000,1007.33,HDFC Bank,Yes Bank,manbirpanchal246@paytm,fuel1172724@ybl,M01172,Fuel,P2M,Success,,Maharashtra,Nagpur,PhonePe
+TXN1CC3A68689CF,2025-01-01 08:13:12.000000000,420.75,Axis Bank,State Bank of India,theodoresarkar313@paytm,user79181@okhdfcbank,,P2P Transfer,P2P,Success,,Telangana,Hyderabad,Paytm
+TXN3C89A0CEE4EE,2025-01-01 08:13:45.000000000,336.71,ICICI Bank,Canara Bank,vyanjanayohannan100@okicici,grocery1622693@okicici,M01622,Grocery,P2M,Success,,Kerala,Kochi,Google Pay
+TXN22F5C48013C4,2025-01-01 08:13:55.000000000,468.36,Axis Bank,Bank of Baroda,unnivora866@paytm,travel938793@oksbi,M00938,Travel,P2M,Success,,Delhi,Dwarka,Google Pay
+TXN6F89A804E9F9,2025-01-01 08:15:03.000000000,568.0,State Bank of India,State Bank of India,gavinkari779@okaxis,grocery393953@oksbi,M00393,Grocery,P2M,Failed,Timeout / network error,Punjab,Amritsar,PhonePe
+TXN64D9F251C88A,2025-01-01 08:15:48.000000000,1958.8,HDFC Bank,HDFC Bank,falaklad824@okicici,e-commerce1840972@okhdfcbank,M01840,E-commerce,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXN20A36CA16E6B,2025-01-01 08:16:25.000000000,1738.78,Bank of Baroda,State Bank of India,yutikadeep928@oksbi,e-commerce1161487@okhdfcbank,M01161,E-commerce,P2M,Success,,Uttar Pradesh,Varanasi,Paytm
+TXN585C3BCD7BE0,2025-01-01 08:17:20.000000000,2280.56,ICICI Bank,Bank of Baroda,vedabali161@okhdfcbank,e-commerce405207@okicici,M00405,E-commerce,P2M,Success,,Delhi,Dwarka,PhonePe
+TXND1477CF742F6,2025-01-01 08:18:42.000000000,609.59,ICICI Bank,State Bank of India,shivanshborah621@oksbi,entertainment264620@ybl,M00264,Entertainment,P2M,Success,,Maharashtra,Nashik,Paytm
+TXNBD18C13585D9,2025-01-01 08:19:46.000000000,167.56,HDFC Bank,Axis Bank,sachisami331@oksbi,grocery36723@oksbi,M00367,Grocery,P2M,Success,,Telangana,Warangal,Paytm
+TXN7FA5BED4321B,2025-01-01 08:20:35.000000000,884.98,ICICI Bank,Axis Bank,banjeetmadan420@okicici,food1638431@upi,M01638,Food Delivery,P2M,Success,,Madhya Pradesh,Gwalior,Google Pay
+TXN5BA11269E938,2025-01-01 08:20:40.000000000,395.79,State Bank of India,Kotak Mahindra Bank,atiprabhu884@oksbi,grocery1853892@oksbi,M01853,Grocery,P2M,Success,,Telangana,Hyderabad,PhonePe
+TXNCEB41DAD5502,2025-01-01 08:23:24.000000000,1967.83,Kotak Mahindra Bank,State Bank of India,finnsinghal873@oksbi,user18809@ybl,,P2P Transfer,P2P,Success,,Madhya Pradesh,Indore,PhonePe
+TXN6ADE568E5D40,2025-01-01 08:25:29.000000000,10.0,ICICI Bank,Canara Bank,balveerdube169@upi,e-commerce602833@okhdfcbank,M00602,E-commerce,P2M,Success,,Gujarat,Vadodara,Google Pay
+TXN3F612EA2CCE6,2025-01-01 08:25:44.000000000,533.31,Yes Bank,IndusInd Bank,udantshan805@paytm,e-commerce1446735@oksbi,M01446,E-commerce,P2M,Success,,Delhi,New Delhi,Google Pay
+TXN22BFA9B59CD2,2025-01-01 08:25:59.000000000,339.26,State Bank of India,State Bank of India,onkarprabhakar512@okicici,pharmacy69657@oksbi,M00069,Pharmacy,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXNAFE92FAC8F11,2025-01-01 08:26:39.000000000,614.96,Bank of Baroda,Union Bank of India,balveerkata726@okicici,user92795@oksbi,,P2P Transfer,P2P,Success,,Haryana,Gurugram,Google Pay
+TXNBE1689BD9014,2025-01-01 08:26:51.000000000,1780.67,Axis Bank,State Bank of India,akshayganguly362@okaxis,e-commerce1941837@oksbi,M01941,E-commerce,P2M,Failed,Timeout / network error,West Bengal,Siliguri,Paytm
+TXNAC215E0F7D26,2025-01-01 08:27:47.000000000,686.7,State Bank of India,ICICI Bank,wahabmunshi191@paytm,entertainment214888@okaxis,M02148,Entertainment,P2M,Failed,Insufficient balance,Haryana,Panipat,BHIM
+TXNCC3FC821513B,2025-01-01 08:28:12.000000000,1036.41,HDFC Bank,State Bank of India,arjunminhas812@oksbi,entertainment124590@okicici,M01245,Entertainment,P2M,Success,,Rajasthan,Jaipur,Google Pay
+TXN13AC9BABF582,2025-01-01 08:28:36.000000000,266.49,State Bank of India,Axis Bank,hemataneja978@ybl,grocery1642545@okaxis,M01642,Grocery,P2M,Success,,Gujarat,Surat,PhonePe
+TXN4FB4959A262F,2025-01-01 08:29:30.000000000,10.0,ICICI Bank,ICICI Bank,arjundesai905@okaxis,e-commerce1221230@okaxis,M01221,E-commerce,P2M,Success,,Karnataka,Mysuru,Paytm
+TXN5596DB4FD53A,2025-01-01 08:29:52.000000000,1074.25,Punjab National Bank,HDFC Bank,abdulzacharia778@oksbi,e-commerce731604@upi,M00731,E-commerce,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXN5414F625BAB4,2025-01-01 08:30:40.000000000,487.05,HDFC Bank,Union Bank of India,jhalaksani546@okhdfcbank,food1119580@okicici,M01119,Food Delivery,P2M,Success,,Uttar Pradesh,Lucknow,Google Pay
+TXN8EA8031D3DDA,2025-01-01 08:30:53.000000000,924.35,Bank of Baroda,Axis Bank,yadaviom652@oksbi,e-commerce801886@ybl,M00801,E-commerce,P2M,Success,,Kerala,Kochi,Paytm
+TXNFBAABBC65118,2025-01-01 08:30:53.000000000,673.86,ICICI Bank,ICICI Bank,ekantikagill994@oksbi,e-commerce76328@upi,M00076,E-commerce,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXNAC8768090663,2025-01-01 08:30:57.000000000,852.94,ICICI Bank,Punjab National Bank,sudikshaghosh233@ybl,entertainment817212@upi,M00817,Entertainment,P2M,Success,,Bihar,Gaya,Paytm
+TXNE842949D498C,2025-01-01 08:33:42.000000000,649.92,Canara Bank,Axis Bank,rajatasant666@upi,pharmacy456311@oksbi,M00456,Pharmacy,P2M,Success,,Gujarat,Ahmedabad,Bank App
+TXN1958073DDA92,2025-01-01 08:35:34.000000000,1529.91,HDFC Bank,HDFC Bank,aayushchhabra392@ybl,utility486182@upi,M00486,Utility Bills,P2M,Success,,Odisha,Bhubaneswar,Bank App
+TXNF5B8E8ABAA66,2025-01-01 08:35:54.000000000,481.72,HDFC Bank,Axis Bank,williamdewan134@ybl,user76549@ybl,,P2P Transfer,P2P,Success,,Delhi,New Delhi,Google Pay
+TXN57B4356F71E0,2025-01-01 08:36:11.000000000,10.0,IndusInd Bank,IndusInd Bank,meghasharma170@okhdfcbank,travel1617420@paytm,M01617,Travel,P2M,Success,,Punjab,Ludhiana,PhonePe
+TXN46826976A845,2025-01-01 08:36:18.000000000,1207.82,HDFC Bank,HDFC Bank,veerchandran388@upi,utility1898569@okhdfcbank,M01898,Utility Bills,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXN96DC4A614BC1,2025-01-01 08:37:08.000000000,658.33,Punjab National Bank,Axis Bank,harshilmuni763@okhdfcbank,fuel47672@oksbi,M00047,Fuel,P2M,Failed,Timeout / network error,Maharashtra,Nagpur,Google Pay
+TXNC43B46AEEA74,2025-01-01 08:38:17.000000000,1421.72,Bank of Baroda,Bank of Baroda,elijahghosh7@okaxis,e-commerce1310796@okaxis,M01310,E-commerce,P2M,Success,,Karnataka,Bengaluru,Paytm
+TXN28029CB3B157,2025-01-01 08:40:11.000000000,228.04,IndusInd Bank,Bank of Baroda,fredericknath230@oksbi,user96427@ybl,,P2P Transfer,P2P,Success,,Maharashtra,Pune,Google Pay
+TXN84B377827905,2025-01-01 08:40:27.000000000,760.45,Bank of Baroda,HDFC Bank,zansishukla765@ybl,food57566@upi,M00575,Food Delivery,P2M,Success,,Haryana,Panipat,Google Pay
+TXN7E6A1ACD551E,2025-01-01 08:40:47.000000000,2234.07,ICICI Bank,Axis Bank,ladlinarang351@oksbi,e-commerce93610@paytm,M00093,E-commerce,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXN92EACE4264FA,2025-01-01 08:43:35.000000000,753.05,Axis Bank,State Bank of India,advaykadakia715@paytm,e-commerce29658@ybl,M00296,E-commerce,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXNA33A927BE7A6,2025-01-01 08:44:13.000000000,934.01,Punjab National Bank,Union Bank of India,victormody616@oksbi,utility464915@okhdfcbank,M00464,Utility Bills,P2M,Success,,Kerala,Kozhikode,Paytm
+TXN7F34E0D64426,2025-01-01 08:44:18.000000000,10.0,HDFC Bank,State Bank of India,sudikshanarain477@oksbi,travel1238178@paytm,M01238,Travel,P2M,Failed,Bank server down,Gujarat,Vadodara,PhonePe
+TXN3E88E8F348BD,2025-01-01 08:44:19.000000000,418.62,HDFC Bank,Union Bank of India,bachittardubey114@upi,user98531@oksbi,,P2P Transfer,P2P,Success,,Madhya Pradesh,Bhopal,Paytm
+TXNA320B612229D,2025-01-01 08:44:23.000000000,1348.57,State Bank of India,State Bank of India,azaanvarghese195@okicici,fuel385430@oksbi,M00385,Fuel,P2M,Success,,West Bengal,Siliguri,Paytm
+TXNCF67C590EA55,2025-01-01 08:44:37.000000000,325.73,State Bank of India,ICICI Bank,vedikakala999@ybl,grocery92045@paytm,M00920,Grocery,P2M,Success,,Delhi,Dwarka,Google Pay
+TXN969A5238AB87,2025-01-01 08:44:40.000000000,1282.07,Bank of Baroda,ICICI Bank,anamikawalla451@upi,utility65132@okaxis,M00651,Utility Bills,P2M,Success,,Uttar Pradesh,Noida,PhonePe
+TXNBDEE1860E2F4,2025-01-01 08:45:25.000000000,428.44,HDFC Bank,Bank of Baroda,adviksalvi395@okhdfcbank,fuel967124@okhdfcbank,M00967,Fuel,P2M,Success,,Madhya Pradesh,Gwalior,PhonePe
+TXN3AF023EC3C55,2025-01-01 08:46:49.000000000,478.51,Punjab National Bank,State Bank of India,christophermital407@paytm,food1362705@okaxis,M01362,Food Delivery,P2M,Success,,Tamil Nadu,Madurai,PhonePe
+TXNBFF4E11A482B,2025-01-01 08:47:05.000000000,407.12,HDFC Bank,Union Bank of India,amairasethi587@oksbi,pharmacy45729@oksbi,M00045,Pharmacy,P2M,Success,,Uttar Pradesh,Varanasi,Google Pay
+TXN7C334F6D1F4C,2025-01-01 08:47:57.000000000,570.35,HDFC Bank,ICICI Bank,baljiwansastry4@oksbi,utility951348@ybl,M00951,Utility Bills,P2M,Success,,Gujarat,Surat,PhonePe
+TXND7E7F5C63D83,2025-01-01 08:49:04.000000000,2603.47,ICICI Bank,Kotak Mahindra Bank,lipikasetty310@oksbi,e-commerce354290@oksbi,M00354,E-commerce,P2M,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN3614970D7762,2025-01-01 08:49:53.000000000,290.98,State Bank of India,Punjab National Bank,dalbirsolanki618@oksbi,grocery760888@upi,M00760,Grocery,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXN33D5AFF44CD6,2025-01-01 08:50:04.000000000,321.19,HDFC Bank,Bank of Baroda,kamyadoctor491@okaxis,fuel163227@upi,M01632,Fuel,P2M,Success,,Delhi,New Delhi,Google Pay
+TXNF547A03A7851,2025-01-01 08:50:51.000000000,2189.08,Bank of Baroda,IndusInd Bank,alkahanda835@okhdfcbank,travel1097940@ybl,M01097,Travel,P2M,Success,,Telangana,Warangal,PhonePe
+TXNB0AFCAEEF7F0,2025-01-01 08:51:03.000000000,204.91,HDFC Bank,HDFC Bank,nidhiparekh644@paytm,user32329@oksbi,,P2P Transfer,P2P,Success,,Odisha,Cuttack,Paytm
+TXN655DBCA43825,2025-01-01 08:51:18.000000000,1807.94,HDFC Bank,HDFC Bank,nishabath615@okicici,travel1628560@ybl,M01628,Travel,P2M,Success,,Gujarat,Vadodara,Paytm
+TXNC9229955E144,2025-01-01 08:52:01.000000000,636.66,Canara Bank,Punjab National Bank,matthewverma679@upi,utility1965159@oksbi,M01965,Utility Bills,P2M,Success,,Punjab,Amritsar,Google Pay
+TXNAFCC7C744270,2025-01-01 08:52:05.000000000,589.81,Union Bank of India,Axis Bank,teerthoommen840@okicici,fuel1705798@paytm,M01705,Fuel,P2M,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN016D0EBB35AB,2025-01-01 08:53:07.000000000,196.13,Bank of Baroda,State Bank of India,mayadugar658@okhdfcbank,food1743373@okicici,M01743,Food Delivery,P2M,Success,,Uttar Pradesh,Kanpur,PhonePe
+TXN8F4E8837DA49,2025-01-01 08:54:51.000000000,955.41,State Bank of India,Kotak Mahindra Bank,vinayaahuja829@okicici,travel2190367@okaxis,M02190,Travel,P2M,Success,,Tamil Nadu,Chennai,PhonePe
+TXN05A4009CC166,2025-01-01 08:55:13.000000000,747.71,ICICI Bank,State Bank of India,jagratibora361@okhdfcbank,grocery460807@okhdfcbank,M00460,Grocery,P2M,Success,,Bihar,Gaya,Google Pay
+TXNE9E2E7C15148,2025-01-01 08:55:32.000000000,800.82,ICICI Bank,State Bank of India,pranitsandal582@okicici,fuel766802@paytm,M00766,Fuel,P2M,Failed,Insufficient balance,Bihar,Patna,PhonePe
+TXNC6B24B2F6CCD,2025-01-01 08:55:34.000000000,546.22,HDFC Bank,Yes Bank,advikapingle604@upi,food1068780@okicici,M01068,Food Delivery,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXNC8BE3C093022,2025-01-01 08:56:28.000000000,2147.02,Kotak Mahindra Bank,HDFC Bank,robertmani960@okhdfcbank,e-commerce859920@ybl,M00859,E-commerce,P2M,Success,,Uttar Pradesh,Noida,Paytm
+TXN944977CFFEDE,2025-01-01 08:56:34.000000000,543.24,Kotak Mahindra Bank,HDFC Bank,ekajahora747@upi,fuel1428767@upi,M01428,Fuel,P2M,Success,,Rajasthan,Udaipur,Paytm
+TXN3DE06D59E669,2025-01-01 08:58:48.000000000,616.38,Union Bank of India,Punjab National Bank,pavanisant456@ybl,user77144@paytm,,P2P Transfer,P2P,Success,,Maharashtra,Nashik,Google Pay
+TXNA670B12BC98D,2025-01-01 08:59:29.000000000,2370.43,State Bank of India,ICICI Bank,harshilmital631@upi,travel1936711@okaxis,M01936,Travel,P2M,Success,,Uttar Pradesh,Lucknow,PhonePe
+TXNDFC4D1DA615F,2025-01-01 08:59:30.000000000,498.87,State Bank of India,Punjab National Bank,anshcherian221@oksbi,e-commerce428955@okhdfcbank,M00428,E-commerce,P2M,Success,,Haryana,Faridabad,PhonePe
+TXN2A1CA2DF5405,2025-01-01 08:59:56.000000000,705.42,Axis Bank,HDFC Bank,abeertata991@ybl,fuel423735@okicici,M00423,Fuel,P2M,Success,,Gujarat,Surat,Paytm
+TXN59C24690D6BD,2025-01-01 08:59:57.000000000,3269.71,Bank of Baroda,HDFC Bank,logansami977@ybl,fuel75882@ybl,M00758,Fuel,P2M,Success,,West Bengal,Kolkata,Paytm
+TXN9372862D4F5B,2025-01-01 09:00:17.000000000,815.66,IndusInd Bank,State Bank of India,saibrar563@upi,grocery339162@upi,M00339,Grocery,P2M,Success,,Tamil Nadu,Madurai,Paytm
+TXN8E9C7911F56F,2025-01-01 09:00:33.000000000,741.79,IndusInd Bank,State Bank of India,edhithapadmanabhan784@okicici,fuel284322@okicici,M00284,Fuel,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXN54A302D9FBB8,2025-01-01 09:01:48.000000000,229.91,Punjab National Bank,HDFC Bank,madhavbanerjee894@okicici,e-commerce1169152@okicici,M01169,E-commerce,P2M,Success,,Delhi,New Delhi,Paytm
+TXN0873CA7CF821,2025-01-01 09:01:58.000000000,1044.2,Union Bank of India,ICICI Bank,vanyanadig86@okaxis,grocery1691495@okaxis,M01691,Grocery,P2M,Success,,Assam,Guwahati,Google Pay
+TXN688ED9FCAD24,2025-01-01 09:03:00.000000000,378.16,State Bank of India,State Bank of India,jalsasha537@oksbi,food60564@ybl,M00605,Food Delivery,P2M,Success,,Telangana,Warangal,Paytm
+TXN6D3337B1D4E6,2025-01-01 09:03:52.000000000,497.69,HDFC Bank,State Bank of India,kiaansridhar703@oksbi,utility206939@okicici,M02069,Utility Bills,P2M,Success,,Punjab,Chandigarh,Google Pay
+TXNC9A20CBDF3E3,2025-01-01 09:03:56.000000000,1778.98,Union Bank of India,State Bank of India,aarnavgola757@ybl,e-commerce1810967@okicici,M01810,E-commerce,P2M,Failed,Insufficient balance,Delhi,Dwarka,PhonePe
+TXN2154356A607E,2025-01-01 09:05:01.000000000,823.67,Punjab National Bank,Kotak Mahindra Bank,waidasengupta868@upi,grocery83091@okaxis,M00830,Grocery,P2M,Failed,Daily limit exceeded,Delhi,New Delhi,BHIM
+TXN90EC81FCCC11,2025-01-01 09:06:05.000000000,1186.56,Bank of Baroda,State Bank of India,georgewable175@upi,grocery2197840@ybl,M02197,Grocery,P2M,Success,,Karnataka,Bengaluru,PhonePe
+TXN7A2212E981D8,2025-01-01 09:07:15.000000000,895.63,Punjab National Bank,ICICI Bank,yutikapatel983@okhdfcbank,e-commerce1272454@paytm,M01272,E-commerce,P2M,Success,,Tamil Nadu,Chennai,Paytm
+TXN504BE9039AE1,2025-01-01 09:09:10.000000000,603.93,ICICI Bank,Yes Bank,bhanumatimandal746@ybl,food1444780@ybl,M01444,Food Delivery,P2M,Success,,Delhi,Dwarka,PhonePe
+TXN4B3B95652C73,2025-01-01 09:10:02.000000000,789.1,Kotak Mahindra Bank,State Bank of India,amaratella722@okaxis,pharmacy1253822@okaxis,M01253,Pharmacy,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXNDC721CEC9E39,2025-01-01 09:10:43.000000000,510.86,State Bank of India,Kotak Mahindra Bank,ishwarchander658@upi,pharmacy61342@okhdfcbank,M00061,Pharmacy,P2M,Success,,Bihar,Patna,Google Pay
+TXNB5A1AA3A408C,2025-01-01 09:11:05.000000000,845.86,ICICI Bank,Axis Bank,nirjashere622@okaxis,grocery1166922@oksbi,M01166,Grocery,P2M,Failed,Timeout / network error,Karnataka,Mangaluru,Paytm
+TXN74BCA497C1FE,2025-01-01 09:11:08.000000000,662.21,Axis Bank,ICICI Bank,chamelitalwar621@okaxis,pharmacy1016691@okicici,M01016,Pharmacy,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXNF7036FB1C2E4,2025-01-01 09:12:18.000000000,391.86,ICICI Bank,State Bank of India,sanayavig179@oksbi,food807558@ybl,M00807,Food Delivery,P2M,Success,,Kerala,Kochi,PhonePe
+TXNFBA6A2CBC113,2025-01-01 09:13:50.000000000,1618.45,Axis Bank,State Bank of India,rayaanmangal303@upi,e-commerce818155@ybl,M00818,E-commerce,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXN82085241E6DD,2025-01-01 09:14:11.000000000,516.55,Axis Bank,Union Bank of India,daksheshmohan23@oksbi,user53212@okhdfcbank,,P2P Transfer,P2P,Success,,Madhya Pradesh,Bhopal,Google Pay
+TXNB7283E0BCE1F,2025-01-01 09:14:49.000000000,334.48,HDFC Bank,IndusInd Bank,yashawinimurthy845@upi,user83630@okhdfcbank,,P2P Transfer,P2P,Success,,Haryana,Gurugram,Google Pay
+TXNA59A793B9749,2025-01-01 09:14:51.000000000,667.1,Kotak Mahindra Bank,HDFC Bank,urvikale176@upi,fuel202568@paytm,M00202,Fuel,P2M,Success,,Gujarat,Surat,Paytm
+TXNBE61B4970BDF,2025-01-01 09:14:55.000000000,1273.25,Punjab National Bank,Canara Bank,nathanchaudhuri956@ybl,fuel882872@oksbi,M00882,Fuel,P2M,Success,,Telangana,Warangal,Google Pay
+TXN6FD7B8C5E3BA,2025-01-01 09:15:47.000000000,1288.98,State Bank of India,ICICI Bank,niharikakant918@okhdfcbank,e-commerce856377@okicici,M00856,E-commerce,P2M,Success,,Haryana,Faridabad,Google Pay
+TXNF3F921905C2F,2025-01-01 09:15:48.000000000,503.84,Axis Bank,Bank of Baroda,vrittibarad210@okicici,user19058@paytm,,P2P Transfer,P2P,Success,,Madhya Pradesh,Gwalior,Bank App
+TXN3CD8CCCDAF51,2025-01-01 09:15:53.000000000,481.73,Punjab National Bank,State Bank of India,triyaprabhu780@okhdfcbank,user50830@okhdfcbank,,P2P Transfer,P2P,Success,,Karnataka,Bengaluru,Google Pay
+TXN2B5DC767456B,2025-01-01 09:16:12.000000000,821.26,Union Bank of India,Punjab National Bank,ekajaraval791@paytm,food1694520@oksbi,M01694,Food Delivery,P2M,Success,,Punjab,Amritsar,PhonePe
+TXN8B37DE3DECF4,2025-01-01 09:16:17.000000000,118.5,Canara Bank,State Bank of India,farisd’alia617@ybl,travel770544@oksbi,M00770,Travel,P2M,Success,,Maharashtra,Pune,PhonePe
+TXN904B7A1C80EC,2025-01-01 09:17:09.000000000,1712.31,HDFC Bank,State Bank of India,manyalad493@ybl,e-commerce1732477@oksbi,M01732,E-commerce,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXN9FA3DF034EE2,2025-01-01 09:17:38.000000000,635.51,IndusInd Bank,HDFC Bank,nandinisunder921@okaxis,e-commerce818155@ybl,M00818,E-commerce,P2M,Failed,Timeout / network error,Tamil Nadu,Madurai,Google Pay
+TXN35845EAAA08C,2025-01-01 09:18:21.000000000,524.67,Axis Bank,ICICI Bank,guneetrama285@oksbi,pharmacy1603159@oksbi,M01603,Pharmacy,P2M,Success,,Tamil Nadu,Chennai,Paytm
+TXN31C70DC43A86,2025-01-01 09:19:59.000000000,877.45,Canara Bank,State Bank of India,patricknarasimhan22@okhdfcbank,user63043@paytm,,P2P Transfer,P2P,Success,,Gujarat,Surat,Google Pay
+TXNE14366686635,2025-01-01 09:20:35.000000000,1142.04,State Bank of India,State Bank of India,damyantisrinivasan363@ybl,e-commerce1414468@okaxis,M01414,E-commerce,P2M,Success,,Haryana,Faridabad,PhonePe
+TXN4E468364AA55,2025-01-01 09:21:10.000000000,516.29,ICICI Bank,Axis Bank,fradotank46@okicici,pharmacy55768@okhdfcbank,M00055,Pharmacy,P2M,Success,,Maharashtra,Nagpur,Google Pay
+TXN244EF32503E9,2025-01-01 09:22:16.000000000,934.86,State Bank of India,HDFC Bank,suhaniravi71@okaxis,utility1282949@upi,M01282,Utility Bills,P2M,Success,,Rajasthan,Udaipur,Google Pay
+TXN918C10EA8C81,2025-01-01 09:23:02.000000000,940.18,Axis Bank,Punjab National Bank,atharvsheth895@upi,utility72865@okicici,M00728,Utility Bills,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXN5C6436BAE696,2025-01-01 09:24:18.000000000,627.15,HDFC Bank,Axis Bank,tristannatt526@upi,fuel1405636@upi,M01405,Fuel,P2M,Success,,Karnataka,Mangaluru,Bank App
+TXN9360FE54F016,2025-01-01 09:25:40.000000000,583.9,State Bank of India,Axis Bank,danielratti993@paytm,entertainment1813184@okhdfcbank,M01813,Entertainment,P2M,Success,,Delhi,Dwarka,Bank App
+TXN75D5499A6F06,2025-01-01 09:25:55.000000000,325.7,ICICI Bank,ICICI Bank,deepanigam543@okaxis,user34938@paytm,,P2P Transfer,P2P,Success,,Tamil Nadu,Madurai,PhonePe
+TXN1E34A53E6FF5,2025-01-01 09:27:57.000000000,428.69,Canara Bank,Punjab National Bank,krishajhaveri220@paytm,utility2042782@okhdfcbank,M02042,Utility Bills,P2M,Success,,Maharashtra,Nagpur,Google Pay
+TXN67A136C3E91A,2025-01-01 09:27:58.000000000,98.49,ICICI Bank,Union Bank of India,geetikapandey528@oksbi,grocery82155@okaxis,M00821,Grocery,P2M,Success,,Tamil Nadu,Chennai,Paytm
+TXNC778C2424851,2025-01-01 09:29:25.000000000,565.83,Axis Bank,Kotak Mahindra Bank,rohanravi196@okhdfcbank,user52729@paytm,,P2P Transfer,P2P,Success,,Maharashtra,Pune,Google Pay
+TXN61BFD2FC20DE,2025-01-01 09:30:24.000000000,10.0,Axis Bank,ICICI Bank,chavvibala742@oksbi,utility79952@okaxis,M00079,Utility Bills,P2M,Success,,West Bengal,Howrah,Google Pay
+TXN46FC53F3D361,2025-01-01 09:30:55.000000000,248.13,ICICI Bank,HDFC Bank,nandinisahota351@okicici,grocery1596623@paytm,M01596,Grocery,P2M,Success,,Delhi,New Delhi,PhonePe
+TXN9D616AA50C7D,2025-01-01 09:32:00.000000000,534.83,HDFC Bank,State Bank of India,yoshitaprabhu966@paytm,user65322@paytm,,P2P Transfer,P2P,Success,,Assam,Dibrugarh,Paytm
+TXNEE6BB1CBF1CB,2025-01-01 09:32:10.000000000,10.0,HDFC Bank,Canara Bank,ekavirtiwari310@paytm,e-commerce2103908@okhdfcbank,M02103,E-commerce,P2M,Success,,Madhya Pradesh,Gwalior,PhonePe
+TXNC8FEA109D612,2025-01-01 09:32:53.000000000,535.51,Axis Bank,State Bank of India,pratyushprasad879@upi,user27203@oksbi,,P2P Transfer,P2P,Success,,Assam,Guwahati,PhonePe
+TXN1078F9AEA12C,2025-01-01 09:33:57.000000000,694.19,State Bank of India,HDFC Bank,lukemodi215@oksbi,user45453@oksbi,,P2P Transfer,P2P,Success,,Madhya Pradesh,Bhopal,Google Pay
+TXN4EE565A7DE87,2025-01-01 09:34:27.000000000,494.78,IndusInd Bank,Axis Bank,bimalalala807@okaxis,food349530@paytm,M00349,Food Delivery,P2M,Success,,Rajasthan,Udaipur,Google Pay
+TXNEBA8E1F4F9D0,2025-01-01 09:34:50.000000000,153.56,ICICI Bank,Kotak Mahindra Bank,timothyacharya930@paytm,utility1652916@ybl,M01652,Utility Bills,P2M,Success,,Gujarat,Surat,Google Pay
+TXNB1458DF225B8,2025-01-01 09:36:06.000000000,1743.01,Canara Bank,Axis Bank,maxsaraf348@paytm,fuel99299@upi,M00992,Fuel,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXNE984CDE7A2F7,2025-01-01 09:36:10.000000000,219.92,Punjab National Bank,HDFC Bank,geetikanagi636@upi,user7600@oksbi,,P2P Transfer,P2P,Success,,Uttar Pradesh,Lucknow,PhonePe
+TXN9F74756E0DE3,2025-01-01 09:37:22.000000000,1017.02,Axis Bank,ICICI Bank,advikshroff99@okhdfcbank,grocery1008582@oksbi,M01008,Grocery,P2M,Success,,Delhi,New Delhi,PhonePe
+TXNB196BFB2E280,2025-01-01 09:37:22.000000000,463.85,Canara Bank,Bank of Baroda,giriksubramaniam926@paytm,fuel1780426@ybl,M01780,Fuel,P2M,Success,,Tamil Nadu,Coimbatore,PhonePe
+TXN89DEC63FEF76,2025-01-01 09:37:49.000000000,683.98,IndusInd Bank,Punjab National Bank,owennair805@okaxis,e-commerce1857227@paytm,M01857,E-commerce,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXN7DDECB59038B,2025-01-01 09:38:13.000000000,294.57,IndusInd Bank,Axis Bank,adityamangal584@okicici,food803294@okaxis,M00803,Food Delivery,P2M,Success,,Haryana,Panipat,PhonePe
+TXN149AFF474F22,2025-01-01 09:38:17.000000000,166.23,State Bank of India,Yes Bank,upadhritibuch224@ybl,user20932@okhdfcbank,,P2P Transfer,P2P,Failed,Insufficient balance,Telangana,Hyderabad,PhonePe
+TXN68D2A79C1FAC,2025-01-01 09:38:56.000000000,452.33,Axis Bank,HDFC Bank,lekhabava299@ybl,user15059@oksbi,,P2P Transfer,P2P,Success,,Haryana,Panipat,Google Pay
+TXN7F9987A91D43,2025-01-01 09:40:10.000000000,446.13,Axis Bank,State Bank of India,upadhritikari924@okicici,grocery1557404@paytm,M01557,Grocery,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXN73AE8820F64F,2025-01-01 09:40:48.000000000,741.74,Canara Bank,IndusInd Bank,rohanbalay714@paytm,entertainment1562523@okaxis,M01562,Entertainment,P2M,Success,,Haryana,Faridabad,Paytm
+TXN8D3EBCB5D8A9,2025-01-01 09:41:58.000000000,1380.7,Punjab National Bank,Axis Bank,gaurikakhare938@okaxis,entertainment173808@oksbi,M00173,Entertainment,P2M,Success,,Karnataka,Mysuru,PhonePe
+TXN85C2B26C90E5,2025-01-01 09:42:03.000000000,893.75,ICICI Bank,Kotak Mahindra Bank,darpanamble776@okaxis,grocery1025107@okicici,M01025,Grocery,P2M,Success,,West Bengal,Siliguri,PhonePe
+TXN43F8FB6C0217,2025-01-01 09:43:02.000000000,813.75,State Bank of India,State Bank of India,upadhritibuch224@ybl,grocery397874@oksbi,M00397,Grocery,P2M,Success,,Telangana,Hyderabad,PhonePe
+TXNF3E9563B286F,2025-01-01 09:44:48.000000000,1597.31,HDFC Bank,Bank of Baroda,abdulnatarajan139@upi,e-commerce1952516@ybl,M01952,E-commerce,P2M,Success,,Gujarat,Ahmedabad,BHIM
+TXN0E8DC06BEBAA,2025-01-01 09:45:41.000000000,846.87,ICICI Bank,Axis Bank,chandranvora856@ybl,e-commerce1272454@paytm,M01272,E-commerce,P2M,Success,,Delhi,Dwarka,Google Pay
+TXN1234072EB293,2025-01-01 09:45:58.000000000,450.82,Axis Bank,HDFC Bank,fitankeer241@okhdfcbank,pharmacy496480@paytm,M00496,Pharmacy,P2M,Success,,Telangana,Warangal,Google Pay
+TXNED2D3A233AD8,2025-01-01 09:46:32.000000000,422.7,Punjab National Bank,State Bank of India,banjeetmahajan592@oksbi,user28997@oksbi,,P2P Transfer,P2P,Success,,Kerala,Kozhikode,PhonePe
+TXNFAACCB9188DF,2025-01-01 09:47:52.000000000,10.0,Axis Bank,Punjab National Bank,yochanakale416@upi,e-commerce858169@ybl,M00858,E-commerce,P2M,Success,,Haryana,Faridabad,Google Pay
+TXND77AF2BC5B7D,2025-01-01 09:48:11.000000000,450.95,Canara Bank,State Bank of India,williambarad947@ybl,entertainment622521@oksbi,M00622,Entertainment,P2M,Success,,Delhi,Dwarka,PhonePe
+TXNCADACAB8C4F4,2025-01-01 09:49:18.000000000,428.26,HDFC Bank,ICICI Bank,jackagarwal185@ybl,entertainment702688@ybl,M00702,Entertainment,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXN8E9FED7E640F,2025-01-01 09:49:44.000000000,233.72,HDFC Bank,Canara Bank,ayushbatra870@okhdfcbank,user20971@ybl,,P2P Transfer,P2P,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN5D57EA0AC95D,2025-01-01 09:50:41.000000000,213.89,HDFC Bank,State Bank of India,jalsamisra973@okhdfcbank,user81425@ybl,,P2P Transfer,P2P,Success,,Maharashtra,Nashik,Paytm
+TXN2895F4C0F899,2025-01-01 09:50:54.000000000,408.57,HDFC Bank,Canara Bank,zayyansidhu701@upi,user13781@okhdfcbank,,P2P Transfer,P2P,Success,,Uttar Pradesh,Varanasi,Paytm
+TXN527A4B482179,2025-01-01 09:51:55.000000000,396.7,Yes Bank,Axis Bank,ekalingachahal508@ybl,fuel115657@ybl,M01156,Fuel,P2M,Success,,Gujarat,Surat,PhonePe
+TXN088A8CC8E850,2025-01-01 09:52:49.000000000,118.63,ICICI Bank,Punjab National Bank,sathvikdalal680@okaxis,food238743@okhdfcbank,M00238,Food Delivery,P2M,Success,,Tamil Nadu,Madurai,Paytm
+TXN936D8FA10F1E,2025-01-01 09:52:49.000000000,1368.23,State Bank of India,Canara Bank,meghanaraman95@okaxis,e-commerce228202@paytm,M00228,E-commerce,P2M,Success,,Madhya Pradesh,Gwalior,PhonePe
+TXNEE0FE10F139E,2025-01-01 09:54:03.000000000,497.54,IndusInd Bank,Axis Bank,ekarajvora54@ybl,fuel512153@ybl,M00512,Fuel,P2M,Failed,Daily limit exceeded,Telangana,Warangal,BHIM
+TXN110A9B1E533F,2025-01-01 09:54:27.000000000,411.86,State Bank of India,Axis Bank,aryaminhas894@paytm,grocery1128456@upi,M01128,Grocery,P2M,Success,,Maharashtra,Nashik,Google Pay
+TXN784F22DF1057,2025-01-01 09:55:58.000000000,1374.02,State Bank of India,ICICI Bank,lakshmiraj902@upi,utility2080410@oksbi,M02080,Utility Bills,P2M,Success,,Uttar Pradesh,Noida,PhonePe
+TXN841D06BE1B61,2025-01-01 09:56:05.000000000,778.02,Axis Bank,Axis Bank,baghyawatidara53@okicici,user88490@okhdfcbank,,P2P Transfer,P2P,Success,,Tamil Nadu,Coimbatore,Paytm
+TXND7765DE091BB,2025-01-01 09:56:13.000000000,131.41,Bank of Baroda,IndusInd Bank,finnkibe872@paytm,grocery1750187@paytm,M01750,Grocery,P2M,Success,,Tamil Nadu,Chennai,PhonePe
+TXN93ABB3F1A170,2025-01-01 09:56:18.000000000,561.05,ICICI Bank,Punjab National Bank,chaitalydoctor542@okhdfcbank,food26734@oksbi,M00267,Food Delivery,P2M,Success,,Maharashtra,Pune,PhonePe
+TXN3FDD1223C819,2025-01-01 09:56:28.000000000,106.9,HDFC Bank,Union Bank of India,yuvrajgill488@ybl,e-commerce2196727@okhdfcbank,M02196,E-commerce,P2M,Pending,,Karnataka,Bengaluru,PhonePe
+TXN6625CD7C587A,2025-01-01 09:57:09.000000000,305.97,Bank of Baroda,Canara Bank,nidrachhabra650@okaxis,food640796@okhdfcbank,M00640,Food Delivery,P2M,Success,,Uttar Pradesh,Noida,Google Pay
+TXN3DAD2DB4B7F9,2025-01-01 09:57:18.000000000,211.11,State Bank of India,Bank of Baroda,vanshadugar915@okaxis,user57857@ybl,,P2P Transfer,P2P,Success,,Gujarat,Ahmedabad,Paytm
+TXN89A33CD4C475,2025-01-01 09:59:32.000000000,504.45,ICICI Bank,Kotak Mahindra Bank,charlesjain570@ybl,grocery1046855@okicici,M01046,Grocery,P2M,Failed,Daily limit exceeded,Tamil Nadu,Madurai,PhonePe
+TXN8DE8BA259FE0,2025-01-01 10:00:32.000000000,1374.91,IndusInd Bank,Bank of Baroda,siyapatla721@paytm,e-commerce2170482@paytm,M02170,E-commerce,P2M,Success,,Karnataka,Mangaluru,Paytm
+TXN683B1AF1AA7E,2025-01-01 10:00:51.000000000,426.38,ICICI Bank,Canara Bank,darshjohal76@okhdfcbank,entertainment1098461@okaxis,M01098,Entertainment,P2M,Success,,Odisha,Cuttack,Google Pay
+TXN277AF73C0389,2025-01-01 10:02:39.000000000,643.64,HDFC Bank,State Bank of India,sameshratta142@paytm,user65995@ybl,,P2P Transfer,P2P,Success,,Delhi,New Delhi,Paytm
+TXND88D14DFC2FC,2025-01-01 10:02:52.000000000,2181.02,State Bank of India,Union Bank of India,kabirrajagopal225@oksbi,e-commerce13577@okicici,M00135,E-commerce,P2M,Success,,Karnataka,Mysuru,Google Pay
+TXN8D556D51BC79,2025-01-01 10:03:53.000000000,596.15,Canara Bank,State Bank of India,arindass795@upi,food174112@okicici,M01741,Food Delivery,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXN7D2EB1061FE8,2025-01-01 10:04:02.000000000,951.28,HDFC Bank,Canara Bank,oscarkarpe132@paytm,utility1863623@paytm,M01863,Utility Bills,P2M,Success,,Delhi,Dwarka,Google Pay
+TXN361E227ABAD6,2025-01-01 10:04:07.000000000,186.15,State Bank of India,Bank of Baroda,brijeshgrover211@okaxis,user31192@ybl,,P2P Transfer,P2P,Success,,Uttar Pradesh,Kanpur,PhonePe
+TXN071E09D1AEB3,2025-01-01 10:05:56.000000000,1223.41,HDFC Bank,State Bank of India,gautaminaidu948@ybl,fuel993422@ybl,M00993,Fuel,P2M,Success,,Telangana,Hyderabad,Google Pay
+TXN85E49FB2F607,2025-01-01 10:05:58.000000000,580.41,HDFC Bank,IndusInd Bank,etamane50@okhdfcbank,pharmacy1521685@upi,M01521,Pharmacy,P2M,Success,,Karnataka,Mysuru,Google Pay
+TXN32D38D69B190,2025-01-01 10:06:12.000000000,485.76,Axis Bank,ICICI Bank,ishanikonda633@paytm,e-commerce974238@okhdfcbank,M00974,E-commerce,P2M,Success,,Uttar Pradesh,Varanasi,Paytm
+TXN4D9A8F60BB3B,2025-01-01 10:06:41.000000000,395.92,Punjab National Bank,Axis Bank,yatinpatla890@okhdfcbank,grocery808753@ybl,M00808,Grocery,P2M,Success,,Telangana,Hyderabad,Paytm
+TXNFBD760B91459,2025-01-01 10:06:54.000000000,377.18,Kotak Mahindra Bank,State Bank of India,vinayadeshmukh688@ybl,fuel1734467@okaxis,M01734,Fuel,P2M,Success,,Punjab,Chandigarh,Google Pay
+TXN490BA0E36026,2025-01-01 10:08:16.000000000,1231.16,State Bank of India,HDFC Bank,balvandash319@okhdfcbank,utility819@ybl,M00008,Utility Bills,P2M,Success,,Telangana,Hyderabad,PhonePe
+TXN18F42E1A2EA5,2025-01-01 10:10:10.000000000,1350.83,HDFC Bank,Punjab National Bank,devikaiyer483@ybl,utility11701@upi,M01170,Utility Bills,P2M,Success,,Assam,Dibrugarh,Google Pay
+TXN836FB2803745,2025-01-01 10:10:25.000000000,496.73,Axis Bank,ICICI Bank,jalsagoel140@ybl,pharmacy45729@oksbi,M00045,Pharmacy,P2M,Success,,Maharashtra,Nagpur,BHIM
+TXN6DA607895576,2025-01-01 10:10:32.000000000,2072.11,State Bank of India,Axis Bank,jaiapte732@paytm,travel1238178@paytm,M01238,Travel,P2M,Success,,West Bengal,Howrah,Google Pay
+TXNB1F5E539D53D,2025-01-01 10:11:55.000000000,10.0,Axis Bank,Bank of Baroda,owennarayanan511@oksbi,e-commerce1840972@okhdfcbank,M01840,E-commerce,P2M,Success,,Maharashtra,Pune,PhonePe
+TXN6E033D701C7B,2025-01-01 10:12:48.000000000,208.87,State Bank of India,HDFC Bank,henrykade517@upi,user50541@ybl,,P2P Transfer,P2P,Success,,Gujarat,Surat,Google Pay
+TXNF9704BC6461F,2025-01-01 10:12:59.000000000,625.35,ICICI Bank,ICICI Bank,rushilsavant631@okhdfcbank,food1927954@okaxis,M01927,Food Delivery,P2M,Success,,Delhi,Dwarka,Paytm
+TXNB51A5A77C565,2025-01-01 10:13:03.000000000,557.35,ICICI Bank,ICICI Bank,dayamaikapadia274@paytm,food1216478@okhdfcbank,M01216,Food Delivery,P2M,Success,,Telangana,Warangal,Google Pay
+TXN9C1D73C4D6D0,2025-01-01 10:14:38.000000000,387.4,State Bank of India,IndusInd Bank,udantsuresh47@ybl,e-commerce1682120@okaxis,M01682,E-commerce,P2M,Success,,Delhi,Dwarka,Paytm
+TXN2194DBB1BF68,2025-01-01 10:14:46.000000000,813.24,Kotak Mahindra Bank,HDFC Bank,falantalwar605@paytm,fuel492697@okicici,M00492,Fuel,P2M,Success,,Tamil Nadu,Coimbatore,PhonePe
+TXN601AA01FB6CD,2025-01-01 10:15:53.000000000,451.29,State Bank of India,Bank of Baroda,trivenithakur600@okaxis,entertainment2115977@ybl,M02115,Entertainment,P2M,Success,,Punjab,Amritsar,Google Pay
+TXN7A84607FDEC2,2025-01-01 10:16:05.000000000,520.09,Kotak Mahindra Bank,Punjab National Bank,mugdhajhaveri776@paytm,grocery1100489@upi,M01100,Grocery,P2M,Success,,Gujarat,Surat,Google Pay
+TXN07653735E4ED,2025-01-01 10:16:59.000000000,624.56,ICICI Bank,Canara Bank,taragarg678@paytm,grocery57116@okhdfcbank,M00057,Grocery,P2M,Success,,Madhya Pradesh,Indore,Google Pay
+TXN7CC65CDDFC4B,2025-01-01 10:17:21.000000000,423.85,HDFC Bank,Punjab National Bank,tarakhalsa309@ybl,fuel806424@paytm,M00806,Fuel,P2M,Success,,Tamil Nadu,Chennai,PhonePe
+TXN30BBA9FC692C,2025-01-01 10:18:29.000000000,509.73,Bank of Baroda,Bank of Baroda,kevinparmer539@okicici,grocery1853892@oksbi,M01853,Grocery,P2M,Success,,Haryana,Panipat,Google Pay
+TXNCA316FD8B9F0,2025-01-01 10:20:23.000000000,807.83,Kotak Mahindra Bank,ICICI Bank,isharoy239@ybl,pharmacy1603159@oksbi,M01603,Pharmacy,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXNAC4940DABBAE,2025-01-01 10:20:57.000000000,746.26,HDFC Bank,Bank of Baroda,sudikshadugal717@okicici,grocery716112@oksbi,M00716,Grocery,P2M,Success,,Madhya Pradesh,Gwalior,PhonePe
+TXN65CC67722218,2025-01-01 10:20:59.000000000,584.02,Axis Bank,State Bank of India,aachalbhalla833@ybl,food673294@upi,M00673,Food Delivery,P2M,Success,,Tamil Nadu,Coimbatore,PhonePe
+TXNC586A825C2CF,2025-01-01 10:22:39.000000000,627.2,HDFC Bank,State Bank of India,victorsachdeva749@okhdfcbank,pharmacy503257@okaxis,M00503,Pharmacy,P2M,Success,,West Bengal,Siliguri,PhonePe
+TXNF55F353065DD,2025-01-01 10:24:57.000000000,1307.08,ICICI Bank,Canara Bank,madhavicherian656@okicici,utility649594@okhdfcbank,M00649,Utility Bills,P2M,Success,,Gujarat,Surat,Google Pay
+TXNBCF0FCC3FC44,2025-01-01 10:25:10.000000000,10.0,Punjab National Bank,Axis Bank,lilaamble881@ybl,grocery1613557@oksbi,M01613,Grocery,P2M,Pending,,Telangana,Warangal,PhonePe
+TXN1019BCACE290,2025-01-01 10:26:15.000000000,618.35,Canara Bank,ICICI Bank,omishabedi397@okicici,entertainment505904@ybl,M00505,Entertainment,P2M,Success,,Rajasthan,Jodhpur,Paytm
+TXN5A42C31884B1,2025-01-01 10:26:31.000000000,986.45,State Bank of India,Yes Bank,turviuppal936@okicici,e-commerce155221@oksbi,M00155,E-commerce,P2M,Success,,Delhi,Rohini,Paytm
+TXNB5E1FB8C9A22,2025-01-01 10:27:28.000000000,197.15,IndusInd Bank,Yes Bank,diptaiyengar746@ybl,user55965@paytm,,P2P Transfer,P2P,Success,,Gujarat,Vadodara,PhonePe
+TXN2C266DDE4641,2025-01-01 10:29:57.000000000,452.35,State Bank of India,Axis Bank,aringrewal188@okhdfcbank,food922304@okhdfcbank,M00922,Food Delivery,P2M,Success,,Karnataka,Mysuru,Google Pay
+TXNF14A529A7458,2025-01-01 10:34:50.000000000,36.95,State Bank of India,Axis Bank,samueldhillon554@oksbi,e-commerce2195409@upi,M02195,E-commerce,P2M,Success,,Tamil Nadu,Chennai,PhonePe
+TXN74D094678C41,2025-01-01 10:34:54.000000000,707.49,State Bank of India,State Bank of India,bhavaniwali124@okaxis,user97208@paytm,,P2P Transfer,P2P,Success,,Karnataka,Mysuru,PhonePe
+TXN634A76287A17,2025-01-01 10:34:56.000000000,251.63,Canara Bank,Axis Bank,baghyawatichana999@okhdfcbank,user25058@oksbi,,P2P Transfer,P2P,Success,,Punjab,Amritsar,Google Pay
+TXNBD01FBD8E0EF,2025-01-01 10:35:21.000000000,1350.9,IndusInd Bank,HDFC Bank,rachitsekhon944@paytm,utility1973724@paytm,M01973,Utility Bills,P2M,Success,,Karnataka,Mangaluru,Bank App
+TXNCD438214AB80,2025-01-01 10:35:27.000000000,810.39,State Bank of India,Axis Bank,warhiprasad387@okaxis,grocery1140274@paytm,M01140,Grocery,P2M,Success,,Gujarat,Ahmedabad,Google Pay
+TXNCC91CD0E1B01,2025-01-01 10:36:08.000000000,224.48,Canara Bank,Punjab National Bank,tejasmohan602@okhdfcbank,fuel125768@paytm,M01257,Fuel,P2M,Success,,Gujarat,Surat,Bank App
+TXN078D149C2D22,2025-01-01 10:37:14.000000000,686.84,IndusInd Bank,ICICI Bank,varenyagrewal284@okicici,user19537@oksbi,,P2P Transfer,P2P,Success,,Tamil Nadu,Chennai,Google Pay
+TXN420596D67E1B,2025-01-01 10:38:10.000000000,390.45,HDFC Bank,HDFC Bank,hiralnarain856@okaxis,food2145455@okaxis,M02145,Food Delivery,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXNACD8E24F59BA,2025-01-01 10:38:11.000000000,311.27,Kotak Mahindra Bank,State Bank of India,wahabgoda62@oksbi,food640796@okhdfcbank,M00640,Food Delivery,P2M,Success,,Kerala,Kozhikode,PhonePe
+TXN1D78AB6D4B0F,2025-01-01 10:40:01.000000000,968.72,HDFC Bank,HDFC Bank,varenyaperi188@ybl,grocery2071701@ybl,M02071,Grocery,P2M,Success,,Karnataka,Bengaluru,BHIM
+TXNA70B7CAE078B,2025-01-01 10:40:25.000000000,2204.58,HDFC Bank,Axis Bank,gaurangipathak92@upi,user34989@paytm,,P2P Transfer,P2P,Success,,Rajasthan,Jaipur,PhonePe
+TXNEC3EA0705AF7,2025-01-01 10:40:40.000000000,815.87,State Bank of India,HDFC Bank,bhavaniapte621@paytm,grocery2095724@ybl,M02095,Grocery,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXNE70EAE9FF7AA,2025-01-01 10:41:46.000000000,230.44,Kotak Mahindra Bank,Union Bank of India,etawali208@okaxis,grocery902874@okicici,M00902,Grocery,P2M,Success,,Tamil Nadu,Coimbatore,PhonePe
+TXNF0E324972116,2025-01-01 10:41:49.000000000,768.0,State Bank of India,HDFC Bank,odikagera43@ybl,user89080@ybl,,P2P Transfer,P2P,Success,,Telangana,Warangal,Google Pay
+TXN9C6F8EACAD14,2025-01-01 10:42:05.000000000,1006.86,ICICI Bank,State Bank of India,hemabhat331@okicici,fuel287548@paytm,M00287,Fuel,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXN94BED3F0C989,2025-01-01 10:42:57.000000000,154.37,State Bank of India,ICICI Bank,eeshasagar421@paytm,user12434@ybl,,P2P Transfer,P2P,Success,,Rajasthan,Jodhpur,Google Pay
+TXNA4F256EBDBE7,2025-01-01 10:45:21.000000000,688.01,Bank of Baroda,ICICI Bank,tanaytoor498@paytm,travel1983932@okhdfcbank,M01983,Travel,P2M,Success,,Punjab,Amritsar,PhonePe
+TXNA3DAC206DFCC,2025-01-01 10:45:51.000000000,129.44,Yes Bank,Kotak Mahindra Bank,omyanarayanan955@okhdfcbank,grocery336656@upi,M00336,Grocery,P2M,Success,,Maharashtra,Nashik,PhonePe
+TXNC53837410DF8,2025-01-01 10:46:10.000000000,1007.99,State Bank of India,Axis Bank,anshtella933@oksbi,fuel1206450@okaxis,M01206,Fuel,P2M,Success,,Odisha,Bhubaneswar,Paytm
+TXN72963C42306D,2025-01-01 10:47:03.000000000,1752.79,Canara Bank,Kotak Mahindra Bank,bhaviniluthra807@okicici,e-commerce1881229@okhdfcbank,M01881,E-commerce,P2M,Success,,Kerala,Thiruvananthapuram,Google Pay
+TXN78AFF158FA1B,2025-01-01 10:47:08.000000000,604.05,Union Bank of India,State Bank of India,aadilala795@upi,entertainment2094233@upi,M02094,Entertainment,P2M,Success,,Uttar Pradesh,Noida,Paytm
+TXNFABE9DD8D9AB,2025-01-01 10:48:13.000000000,420.3,HDFC Bank,State Bank of India,thomasarora51@ybl,e-commerce636405@upi,M00636,E-commerce,P2M,Success,,Odisha,Cuttack,Google Pay
+TXNA0B155193E68,2025-01-01 10:49:13.000000000,979.62,Axis Bank,Canara Bank,ishanichatterjee926@oksbi,e-commerce405207@okicici,M00405,E-commerce,P2M,Success,,Madhya Pradesh,Gwalior,Paytm
+TXN3C3E13707080,2025-01-01 10:49:54.000000000,874.55,ICICI Bank,Union Bank of India,lohitbawa164@okhdfcbank,grocery69434@paytm,M00694,Grocery,P2M,Success,,Karnataka,Mysuru,Google Pay
+TXN8E2F63CAA9A0,2025-01-01 10:50:57.000000000,803.47,State Bank of India,Kotak Mahindra Bank,robertmammen372@okhdfcbank,e-commerce1453730@okhdfcbank,M01453,E-commerce,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXN7CE59BF243F1,2025-01-01 10:52:47.000000000,500.5,ICICI Bank,HDFC Bank,trivenibalan172@ybl,food688218@okicici,M00688,Food Delivery,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXN0E3A75AD59A9,2025-01-01 10:53:32.000000000,363.61,HDFC Bank,ICICI Bank,sameshswamy929@upi,utility724774@oksbi,M00724,Utility Bills,P2M,Success,,Maharashtra,Nagpur,Google Pay
+TXN13B3CA9B808F,2025-01-01 10:53:58.000000000,670.01,ICICI Bank,Axis Bank,mugdharajagopal609@okhdfcbank,user76878@okhdfcbank,,P2P Transfer,P2P,Success,,West Bengal,Kolkata,BHIM
+TXN6DDD4F4DB73A,2025-01-01 10:54:34.000000000,851.43,Bank of Baroda,HDFC Bank,wrideshbhagat625@okaxis,grocery150850@okicici,M01508,Grocery,P2M,Success,,West Bengal,Howrah,Google Pay
+TXN2254119C331A,2025-01-01 10:55:51.000000000,608.16,State Bank of India,HDFC Bank,labankothari37@paytm,food632873@paytm,M00632,Food Delivery,P2M,Success,,Telangana,Warangal,Google Pay
+TXN2386373A9776,2025-01-01 10:56:01.000000000,1450.55,Punjab National Bank,State Bank of India,balendrakothari171@upi,e-commerce1893513@ybl,M01893,E-commerce,P2M,Failed,Invalid VPA,Maharashtra,Nashik,PhonePe
+TXNB1C0F8C12067,2025-01-01 10:56:08.000000000,1660.74,ICICI Bank,IndusInd Bank,vedhikaloke389@ybl,e-commerce185640@okaxis,M01856,E-commerce,P2M,Success,,Haryana,Panipat,Paytm
+TXNA14590CD659F,2025-01-01 10:57:11.000000000,528.18,Axis Bank,State Bank of India,aachalbhalla833@ybl,grocery1695467@ybl,M01695,Grocery,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXNB86DD33E2BEA,2025-01-01 10:58:03.000000000,616.01,State Bank of India,HDFC Bank,aadiwali689@okhdfcbank,pharmacy754771@okaxis,M00754,Pharmacy,P2M,Pending,,Telangana,Hyderabad,Google Pay
+TXN1E5584AB5034,2025-01-01 10:59:59.000000000,478.14,State Bank of India,Union Bank of India,lakshmibahl179@okicici,entertainment1981517@okaxis,M01981,Entertainment,P2M,Success,,Uttar Pradesh,Lucknow,Google Pay
+TXN120F459F93DF,2025-01-01 11:00:14.000000000,354.61,Canara Bank,Yes Bank,anshchand287@okhdfcbank,pharmacy89238@ybl,M00089,Pharmacy,P2M,Success,,Kerala,Kochi,Google Pay
+TXN28103A9891C5,2025-01-01 11:02:52.000000000,621.1,State Bank of India,Kotak Mahindra Bank,iranagar436@okhdfcbank,grocery1289730@okicici,M01289,Grocery,P2M,Failed,Invalid VPA,Delhi,Rohini,Google Pay
+TXNE50E39D6691B,2025-01-01 11:05:28.000000000,207.48,Axis Bank,State Bank of India,aashikumer284@upi,fuel829930@upi,M00829,Fuel,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXN8C15941634ED,2025-01-01 11:10:25.000000000,2629.83,State Bank of India,Axis Bank,aarinilall94@oksbi,travel1238178@paytm,M01238,Travel,P2M,Success,,Karnataka,Bengaluru,PhonePe
+TXN3667DD1B75AF,2025-01-01 11:10:46.000000000,289.87,Punjab National Bank,Bank of Baroda,chaayasolanki703@upi,food166052@okicici,M01660,Food Delivery,P2M,Success,,Rajasthan,Jodhpur,BHIM
+TXN568DB106E582,2025-01-01 11:11:40.000000000,530.11,IndusInd Bank,State Bank of India,vedhikashankar658@ybl,utility1631959@upi,M01631,Utility Bills,P2M,Success,,Gujarat,Ahmedabad,Bank App
+TXN0E44C2E33B24,2025-01-01 11:14:34.000000000,456.4,Axis Bank,Axis Bank,jackbarad832@paytm,entertainment2115977@ybl,M02115,Entertainment,P2M,Success,,West Bengal,Howrah,PhonePe
+TXN73D7A5F81D3F,2025-01-01 11:15:15.000000000,580.47,IndusInd Bank,ICICI Bank,chavvishanker430@upi,grocery1875594@ybl,M01875,Grocery,P2M,Success,,West Bengal,Kolkata,Google Pay
+TXND4FBBD7F1F96,2025-01-01 11:15:25.000000000,901.41,ICICI Bank,HDFC Bank,ekanshnarula332@okicici,utility1132993@okicici,M01132,Utility Bills,P2M,Success,,Rajasthan,Jodhpur,Google Pay
+TXNB0EB0A41F45B,2025-01-01 11:15:57.000000000,185.58,Axis Bank,Union Bank of India,charlesmahajan375@upi,entertainment2004542@ybl,M02004,Entertainment,P2M,Success,,Madhya Pradesh,Gwalior,Paytm
+TXN051422F24304,2025-01-01 11:18:05.000000000,467.34,Punjab National Bank,Axis Bank,harshilmaharaj587@oksbi,pharmacy1620871@okicici,M01620,Pharmacy,P2M,Failed,Insufficient balance,Delhi,Dwarka,PhonePe
+TXNE53A9485CF3C,2025-01-01 11:18:10.000000000,993.63,State Bank of India,State Bank of India,baljiwankota309@upi,food551171@okicici,M00551,Food Delivery,P2M,Success,,Uttar Pradesh,Lucknow,Google Pay
+TXN8FA2A5965773,2025-01-01 11:18:46.000000000,139.81,Canara Bank,Axis Bank,adityacontractor5@okaxis,user48958@ybl,,P2P Transfer,P2P,Success,,Telangana,Warangal,PhonePe
+TXN3AB33B8C74F8,2025-01-01 11:19:09.000000000,597.93,Canara Bank,Union Bank of India,qarinsawhney953@paytm,user54283@oksbi,,P2P Transfer,P2P,Success,,Gujarat,Vadodara,Paytm
+TXN97DE9795ADC3,2025-01-01 11:19:09.000000000,317.36,Kotak Mahindra Bank,Punjab National Bank,manthannatt867@upi,user58870@okhdfcbank,,P2P Transfer,P2P,Success,,Telangana,Hyderabad,PhonePe
+TXNA1EBBDA1ED34,2025-01-01 11:19:45.000000000,508.26,ICICI Bank,Canara Bank,hemangchoudhary532@upi,food965114@oksbi,M00965,Food Delivery,P2M,Success,,Maharashtra,Nagpur,Google Pay
+TXND258C167ACB5,2025-01-01 11:21:12.000000000,547.89,Bank of Baroda,Canara Bank,neelimajani821@upi,grocery175232@upi,M00175,Grocery,P2M,Success,,Kerala,Kochi,PhonePe
+TXN5F191FFA711D,2025-01-01 11:23:04.000000000,560.29,Punjab National Bank,Axis Bank,neelimakhurana925@paytm,user46204@paytm,,P2P Transfer,P2P,Success,,Rajasthan,Jaipur,PhonePe
+TXN96A00A262B6B,2025-01-01 11:23:20.000000000,991.85,State Bank of India,Axis Bank,vaishnavioza138@paytm,user22476@paytm,,P2P Transfer,P2P,Success,,Uttar Pradesh,Lucknow,BHIM
+TXNFB2C57B7D76B,2025-01-01 11:25:20.000000000,404.91,State Bank of India,Kotak Mahindra Bank,bhavikaben495@upi,fuel1962802@paytm,M01962,Fuel,P2M,Success,,Delhi,New Delhi,Paytm
+TXN46F296BD9463,2025-01-01 11:27:12.000000000,765.09,State Bank of India,Punjab National Bank,chakradevkari345@upi,user86121@oksbi,,P2P Transfer,P2P,Success,,Uttar Pradesh,Noida,Paytm
+TXN8C245B4F16DC,2025-01-01 11:28:16.000000000,898.24,HDFC Bank,IndusInd Bank,janujapai970@okicici,fuel512153@ybl,M00512,Fuel,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXND4AAEEFFE88E,2025-01-01 11:29:24.000000000,2501.12,Union Bank of India,State Bank of India,aadikumer763@okhdfcbank,e-commerce1277810@upi,M01277,E-commerce,P2M,Success,,Delhi,Dwarka,BHIM
+TXN7DE5B4F077BE,2025-01-01 11:30:07.000000000,3065.7,State Bank of India,Punjab National Bank,dakshbanik316@okaxis,travel147940@ybl,M00147,Travel,P2M,Success,,Assam,Guwahati,PhonePe
+TXN575B55FE5D84,2025-01-01 11:30:11.000000000,409.71,HDFC Bank,State Bank of India,aarnabora404@upi,grocery1116814@paytm,M01116,Grocery,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXN0B1575C61BC0,2025-01-01 11:31:03.000000000,292.2,Axis Bank,Axis Bank,vedantcherian591@okaxis,grocery828694@okicici,M00828,Grocery,P2M,Success,,Karnataka,Mysuru,Google Pay
+TXN7F40D14FBC3A,2025-01-01 11:31:34.000000000,379.48,HDFC Bank,State Bank of India,ekiyaray880@okicici,user6634@okhdfcbank,,P2P Transfer,P2P,Success,,Gujarat,Vadodara,Paytm
+TXN10BD02C8EA74,2025-01-01 11:40:16.000000000,447.86,State Bank of India,Axis Bank,orindersabharwal938@oksbi,entertainment124590@okicici,M01245,Entertainment,P2M,Success,,Kerala,Thiruvananthapuram,Paytm
+TXN76A8B60E2472,2025-01-01 11:40:34.000000000,841.39,Canara Bank,State Bank of India,hemangpillay859@okaxis,grocery425845@paytm,M00425,Grocery,P2M,Success,,Gujarat,Ahmedabad,Google Pay
+TXNB23F146521FB,2025-01-01 11:41:17.000000000,1059.37,State Bank of India,HDFC Bank,rehaannayak147@okhdfcbank,e-commerce1247774@upi,M01247,E-commerce,P2M,Success,,Telangana,Hyderabad,Bank App
+TXN015ECA38D483,2025-01-01 11:42:13.000000000,365.59,ICICI Bank,Axis Bank,nihaldevan949@okaxis,grocery507885@okhdfcbank,M00507,Grocery,P2M,Success,,Maharashtra,Nagpur,Paytm
+TXN1A6788E83322,2025-01-01 11:42:26.000000000,791.93,HDFC Bank,Kotak Mahindra Bank,gangaparikh761@ybl,grocery1802436@okaxis,M01802,Grocery,P2M,Success,,West Bengal,Howrah,Google Pay
+TXN21B8A30A7DEE,2025-01-01 11:44:55.000000000,1946.26,State Bank of India,Yes Bank,samakshbarad583@okicici,travel1958315@oksbi,M01958,Travel,P2M,Success,,Maharashtra,Pune,Google Pay
+TXN85117779DAF2,2025-01-01 11:45:27.000000000,1128.93,State Bank of India,State Bank of India,gopalkaul578@ybl,utility735459@paytm,M00735,Utility Bills,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXN630528B6F7D0,2025-01-01 11:47:27.000000000,370.05,Axis Bank,State Bank of India,bhavanikrish957@okhdfcbank,e-commerce1437154@okhdfcbank,M01437,E-commerce,P2M,Success,,Haryana,Panipat,PhonePe
+TXND917A9B10C10,2025-01-01 11:50:15.000000000,1014.14,Bank of Baroda,Bank of Baroda,fradodara994@okhdfcbank,grocery1178939@ybl,M01178,Grocery,P2M,Success,,Delhi,Rohini,Google Pay
+TXNF00689E83C21,2025-01-01 11:50:39.000000000,1066.85,Punjab National Bank,HDFC Bank,tarabera611@okhdfcbank,food608156@okicici,M00608,Food Delivery,P2M,Success,,Tamil Nadu,Madurai,PhonePe
+TXN9B5A2026E948,2025-01-01 11:53:29.000000000,42.61,Punjab National Bank,HDFC Bank,robertsodhi170@upi,e-commerce974238@okhdfcbank,M00974,E-commerce,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXNE02696012A0B,2025-01-01 11:54:59.000000000,811.49,ICICI Bank,State Bank of India,sakshammenon671@oksbi,user97610@paytm,,P2P Transfer,P2P,Success,,Telangana,Warangal,Google Pay
+TXNED396C03CE40,2025-01-01 11:55:15.000000000,428.96,State Bank of India,ICICI Bank,benjamindixit881@okhdfcbank,food26870@paytm,M00268,Food Delivery,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXNCAA5A90D99E4,2025-01-01 11:56:18.000000000,1025.05,ICICI Bank,Axis Bank,gaurangikonda133@paytm,user42954@okhdfcbank,,P2P Transfer,P2P,Success,,Gujarat,Vadodara,Paytm
+TXNC670F42F9635,2025-01-01 11:56:29.000000000,10.0,Axis Bank,IndusInd Bank,ayaansawhney237@oksbi,e-commerce856377@okicici,M00856,E-commerce,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXNC65E6A134A6A,2025-01-01 11:56:43.000000000,1033.91,Yes Bank,Bank of Baroda,baljiwanmajumdar402@okicici,fuel1428767@upi,M01428,Fuel,P2M,Success,,Haryana,Gurugram,Paytm
+TXN120B13292825,2025-01-01 11:58:03.000000000,584.25,ICICI Bank,State Bank of India,vedhikamohanty462@ybl,user20631@okhdfcbank,,P2P Transfer,P2P,Success,,Haryana,Gurugram,Paytm
+TXNBFEB9ECA574F,2025-01-01 11:58:41.000000000,431.38,HDFC Bank,Yes Bank,samarthgoyal756@okhdfcbank,grocery244979@ybl,M00244,Grocery,P2M,Success,,Maharashtra,Pune,Paytm
+TXN527CB6477023,2025-01-01 11:58:59.000000000,1135.45,State Bank of India,Canara Bank,urvipant127@okicici,e-commerce797781@okhdfcbank,M00797,E-commerce,P2M,Success,,Punjab,Chandigarh,Paytm
+TXN8DB2EDDC94CC,2025-01-01 12:00:00.000000000,1010.24,State Bank of India,State Bank of India,gayathrianne445@upi,grocery1613557@oksbi,M01613,Grocery,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXND6AE787325BA,2025-01-01 12:00:04.000000000,313.11,Canara Bank,HDFC Bank,vrittilata803@okicici,user71661@oksbi,,P2P Transfer,P2P,Success,,Bihar,Gaya,Paytm
+TXNBFD562336F61,2025-01-01 12:00:24.000000000,10.0,State Bank of India,Punjab National Bank,vedikakala999@ybl,entertainment319821@oksbi,M00319,Entertainment,P2M,Success,,Delhi,Dwarka,PhonePe
+TXN7386D47C3CE4,2025-01-01 12:00:24.000000000,714.83,Canara Bank,Axis Bank,aishanideol847@paytm,pharmacy280482@paytm,M00280,Pharmacy,P2M,Success,,Delhi,New Delhi,PhonePe
+TXNC94B7CCC92CE,2025-01-01 12:00:26.000000000,327.63,Punjab National Bank,Axis Bank,harshildhingra809@upi,grocery838648@oksbi,M00838,Grocery,P2M,Success,,Madhya Pradesh,Indore,Google Pay
+TXN753B5478181D,2025-01-01 12:00:28.000000000,329.03,Axis Bank,HDFC Bank,forumdara635@ybl,grocery44700@oksbi,M00044,Grocery,P2M,Success,,Punjab,Amritsar,Paytm
+TXN84223F52E09B,2025-01-01 12:02:04.000000000,299.46,Punjab National Bank,Axis Bank,rajeshrirout846@oksbi,user2290@oksbi,,P2P Transfer,P2P,Success,,Delhi,Rohini,PhonePe
+TXN991F803D6601,2025-01-01 12:02:59.000000000,657.26,Punjab National Bank,State Bank of India,charvisibal837@oksbi,grocery847975@ybl,M00847,Grocery,P2M,Success,,Maharashtra,Mumbai,PhonePe
+TXN0914DEB5251E,2025-01-01 12:04:44.000000000,627.23,ICICI Bank,Union Bank of India,rakshakarpe402@okaxis,entertainment126417@paytm,M00126,Entertainment,P2M,Success,,Maharashtra,Pune,PhonePe
+TXN3669DAEB0008,2025-01-01 12:04:51.000000000,678.05,State Bank of India,ICICI Bank,vamakshimangal653@okhdfcbank,utility95097@okaxis,M00950,Utility Bills,P2M,Success,,Tamil Nadu,Coimbatore,PhonePe
+TXNF9E862C7183C,2025-01-01 12:05:25.000000000,518.06,HDFC Bank,Union Bank of India,yaminigaba151@paytm,food1072843@okicici,M01072,Food Delivery,P2M,Success,,Haryana,Panipat,Google Pay
+TXNC9BBE426E443,2025-01-01 12:07:05.000000000,538.9,Canara Bank,Axis Bank,banjeetmall17@okicici,pharmacy835594@okaxis,M00835,Pharmacy,P2M,Success,,Delhi,Rohini,PhonePe
+TXN930FDE1F277E,2025-01-01 12:07:27.000000000,567.13,State Bank of India,Yes Bank,upkaargrewal204@okaxis,user34704@okhdfcbank,,P2P Transfer,P2P,Success,,Madhya Pradesh,Bhopal,Google Pay
+TXN7A306AD56D8A,2025-01-01 12:08:54.000000000,1284.66,Axis Bank,State Bank of India,zayyanpatel659@okicici,e-commerce1169152@okicici,M01169,E-commerce,P2M,Success,,Karnataka,Bengaluru,PhonePe
+TXN406FF8E3FD0D,2025-01-01 12:09:33.000000000,1001.75,ICICI Bank,Yes Bank,arunimakannan445@okaxis,e-commerce801886@ybl,M00801,E-commerce,P2M,Success,,Tamil Nadu,Coimbatore,BHIM
+TXN0715A0FE7C0E,2025-01-01 12:10:03.000000000,325.9,ICICI Bank,Yes Bank,amritasahni464@ybl,fuel115657@ybl,M01156,Fuel,P2M,Success,,West Bengal,Howrah,Google Pay
+TXN1099AA44FFC9,2025-01-01 12:11:20.000000000,809.62,Punjab National Bank,HDFC Bank,banjeetmahajan592@oksbi,fuel7638@oksbi,M00007,Fuel,P2M,Success,,Kerala,Kozhikode,Google Pay
+TXN9312B22CD65E,2025-01-01 12:13:21.000000000,1217.36,IndusInd Bank,IndusInd Bank,jagvigupta24@ybl,utility72865@okicici,M00728,Utility Bills,P2M,Success,,Uttar Pradesh,Varanasi,Google Pay
+TXNBC8052EAB833,2025-01-01 12:14:05.000000000,552.94,Union Bank of India,Canara Bank,sanyabhatia103@oksbi,e-commerce1612242@upi,M01612,E-commerce,P2M,Failed,Insufficient balance,Karnataka,Mangaluru,Google Pay
+TXNC61A139EE2B3,2025-01-01 12:14:45.000000000,677.31,Union Bank of India,State Bank of India,mahikapandya129@okicici,fuel384666@ybl,M00384,Fuel,P2M,Success,,Madhya Pradesh,Bhopal,Paytm
+TXN9BA297ECDBBF,2025-01-01 12:15:40.000000000,1049.25,Axis Bank,Bank of Baroda,azaansahni453@upi,food1162718@oksbi,M01162,Food Delivery,P2M,Success,,Rajasthan,Jaipur,Paytm
+TXN34ACF83D96C0,2025-01-01 12:16:33.000000000,764.02,IndusInd Bank,Axis Bank,ekanisura203@okicici,e-commerce1717138@okhdfcbank,M01717,E-commerce,P2M,Success,,Madhya Pradesh,Gwalior,Google Pay
+TXNF60880E5541A,2025-01-01 12:17:48.000000000,83.11,Punjab National Bank,Union Bank of India,hamsinivyas798@paytm,user52431@okhdfcbank,,P2P Transfer,P2P,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN42C0F3AF6703,2025-01-01 12:18:34.000000000,860.5,Axis Bank,Union Bank of India,meghakalla688@okhdfcbank,utility1179302@paytm,M01179,Utility Bills,P2M,Success,,Uttar Pradesh,Varanasi,BHIM
+TXND86EC7BA26A8,2025-01-01 12:19:50.000000000,696.23,Punjab National Bank,State Bank of India,falakray61@oksbi,user67010@paytm,,P2P Transfer,P2P,Success,,Karnataka,Bengaluru,PhonePe
+TXN10DC00B7694E,2025-01-01 12:20:11.000000000,1985.77,HDFC Bank,State Bank of India,onkarvohra454@okhdfcbank,user17718@okhdfcbank,,P2P Transfer,P2P,Success,,Delhi,Dwarka,PhonePe
+TXNC25AB7A3BF3D,2025-01-01 12:23:11.000000000,199.71,ICICI Bank,Punjab National Bank,geetikaseth926@okicici,user1357@ybl,,P2P Transfer,P2P,Success,,Telangana,Hyderabad,Paytm
+TXNB4F2BD99CF37,2025-01-01 12:23:25.000000000,629.35,Bank of Baroda,Punjab National Bank,kavyavaidya508@okaxis,user79027@ybl,,P2P Transfer,P2P,Success,,Kerala,Kochi,BHIM
+TXN9F22005BD578,2025-01-01 12:23:47.000000000,429.2,HDFC Bank,State Bank of India,orinderbala571@okhdfcbank,food2144905@okicici,M02144,Food Delivery,P2M,Success,,Uttar Pradesh,Lucknow,Paytm
+TXN57BB7A9C3FB9,2025-01-01 12:23:47.000000000,665.07,Punjab National Bank,Canara Bank,pranavchana107@oksbi,food1296822@upi,M01296,Food Delivery,P2M,Success,,Maharashtra,Nashik,Google Pay
+TXNB7E2D06A2A5B,2025-01-01 12:24:19.000000000,454.05,Canara Bank,Punjab National Bank,dayitathakur853@oksbi,pharmacy595761@paytm,M00595,Pharmacy,P2M,Success,,Maharashtra,Pune,PhonePe
+TXN5618F153D35F,2025-01-01 12:24:35.000000000,816.45,State Bank of India,IndusInd Bank,ekantikaram768@ybl,grocery1164387@okicici,M01164,Grocery,P2M,Success,,Kerala,Kozhikode,Bank App
+TXN2B1301715A9B,2025-01-01 12:25:11.000000000,1837.91,Punjab National Bank,State Bank of India,chaitalydhar397@upi,travel164547@okicici,M00164,Travel,P2M,Success,,Tamil Nadu,Madurai,PhonePe
+TXNCD054058547E,2025-01-01 12:28:03.000000000,478.71,Kotak Mahindra Bank,ICICI Bank,jeetpillai987@okaxis,user89921@oksbi,,P2P Transfer,P2P,Success,,Kerala,Kochi,Google Pay
+TXN0B30F0A1DCA2,2025-01-01 12:28:29.000000000,407.04,Punjab National Bank,HDFC Bank,siddharthapte354@okicici,pharmacy2114300@okhdfcbank,M02114,Pharmacy,P2M,Success,,Karnataka,Bengaluru,Google Pay
+TXNBA9092A8D518,2025-01-01 12:29:30.000000000,119.81,HDFC Bank,ICICI Bank,harinikapoor973@okaxis,grocery927109@ybl,M00927,Grocery,P2M,Success,,Delhi,Dwarka,Bank App
+TXN05CDC2EE377A,2025-01-01 12:30:08.000000000,895.64,ICICI Bank,ICICI Bank,ekantikakhosla517@paytm,utility145883@okicici,M00145,Utility Bills,P2M,Success,,Uttar Pradesh,Varanasi,Bank App
+TXN6062793ACDB2,2025-01-01 12:30:18.000000000,535.6,Punjab National Bank,Kotak Mahindra Bank,abduldora981@ybl,food431714@okaxis,M00431,Food Delivery,P2M,Success,,Uttar Pradesh,Noida,Google Pay
+TXN7707D62A61A0,2025-01-01 12:32:02.000000000,127.04,Punjab National Bank,State Bank of India,tejasdube970@ybl,utility74681@okhdfcbank,M00074,Utility Bills,P2M,Success,,Delhi,Rohini,Google Pay
+TXNA8DEDCBE9FC3,2025-01-01 12:34:45.000000000,188.26,Axis Bank,Kotak Mahindra Bank,sanayabasu759@oksbi,grocery1618966@okaxis,M01618,Grocery,P2M,Success,,Telangana,Hyderabad,PhonePe
+TXN5B7130BBBA49,2025-01-01 12:34:52.000000000,1413.68,HDFC Bank,Punjab National Bank,omyachaudhari511@okhdfcbank,e-commerce1502697@okaxis,M01502,E-commerce,P2M,Success,,Karnataka,Bengaluru,PhonePe
+TXN93C9DC3FFF00,2025-01-01 12:35:05.000000000,974.11,Axis Bank,State Bank of India,tanvishetty375@paytm,grocery2026982@upi,M02026,Grocery,P2M,Success,,Karnataka,Mangaluru,Bank App
+TXN09E2EB941EA3,2025-01-01 12:36:01.000000000,647.51,ICICI Bank,Kotak Mahindra Bank,nidhiborde549@okicici,user56461@ybl,,P2P Transfer,P2P,Success,,Maharashtra,Pune,Google Pay
+TXN5E5B89690A4E,2025-01-01 12:36:19.000000000,1264.88,HDFC Bank,HDFC Bank,hredhaangill970@okicici,travel1058826@ybl,M01058,Travel,P2M,Success,,Maharashtra,Nagpur,PhonePe
+TXN11582D854FFC,2025-01-01 12:36:51.000000000,925.87,State Bank of India,Union Bank of India,trivenithakur600@okaxis,fuel1335955@paytm,M01335,Fuel,P2M,Success,,Punjab,Amritsar,Google Pay
+TXN6B7242FF76BF,2025-01-01 12:37:49.000000000,1084.57,HDFC Bank,State Bank of India,kashishpal31@oksbi,user80429@ybl,,P2P Transfer,P2P,Success,,Maharashtra,Mumbai,Google Pay
+TXNBE2CE69640FF,2025-01-01 12:38:03.000000000,585.74,ICICI Bank,Canara Bank,anitaswamy162@okhdfcbank,pharmacy1430680@okicici,M01430,Pharmacy,P2M,Success,,Maharashtra,Mumbai,Google Pay
+TXN2A37D601F083,2025-01-01 12:38:08.000000000,276.47,State Bank of India,ICICI Bank,dhritisanghvi935@upi,user71786@ybl,,P2P Transfer,P2P,Success,,Tamil Nadu,Chennai,Google Pay
+TXN7616A5E75B92,2025-01-01 12:39:42.000000000,211.63,State Bank of India,Axis Bank,indiralanka851@okhdfcbank,food1142843@ybl,M01142,Food Delivery,P2M,Success,,Gujarat,Vadodara,Google Pay
+TXN95AB5D46E2C5,2025-01-01 12:40:47.000000000,10.0,Kotak Mahindra Bank,Punjab National Bank,nilimaswamy996@oksbi,e-commerce1086107@upi,M01086,E-commerce,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXN2AD89B7EFD90,2025-01-01 12:41:49.000000000,138.45,Canara Bank,Bank of Baroda,abdulamble9@okhdfcbank,user22693@ybl,,P2P Transfer,P2P,Success,,Bihar,Gaya,Paytm
+TXNACE11E9B2E00,2025-01-01 12:42:35.000000000,508.37,State Bank of India,ICICI Bank,isaacbhatt252@okicici,entertainment1448231@upi,M01448,Entertainment,P2M,Failed,Insufficient balance,West Bengal,Kolkata,Paytm
+TXNF21714F5323E,2025-01-01 12:45:24.000000000,760.82,Axis Bank,Yes Bank,watikabir380@upi,grocery1574595@okicici,M01574,Grocery,P2M,Success,,Uttar Pradesh,Varanasi,PhonePe
+TXN3F52189D53EA,2025-01-01 12:47:40.000000000,449.06,ICICI Bank,State Bank of India,labanmital714@okaxis,food1147457@okicici,M01147,Food Delivery,P2M,Success,,Tamil Nadu,Chennai,Google Pay
+TXNBCBE00FDBC2A,2025-01-01 12:50:33.000000000,2588.66,Canara Bank,HDFC Bank,rushilbhagat45@okaxis,e-commerce1851217@okaxis,M01851,E-commerce,P2M,Success,,Karnataka,Mangaluru,Paytm
+TXN455A2DEE63B4,2025-01-01 12:51:23.000000000,353.18,ICICI Bank,IndusInd Bank,benjaminvirk624@okicici,user34755@ybl,,P2P Transfer,P2P,Success,,Karnataka,Bengaluru,Bank App
+TXN123B06B8289F,2025-01-01 12:54:06.000000000,256.16,Bank of Baroda,HDFC Bank,nakshcomar953@ybl,user75306@ybl,,P2P Transfer,P2P,Success,,Haryana,Gurugram,PhonePe
+TXN7E41D603BD2E,2025-01-01 12:54:42.000000000,738.15,Bank of Baroda,Canara Bank,brijeshverma203@okhdfcbank,fuel672334@upi,M00672,Fuel,P2M,Pending,,Odisha,Bhubaneswar,Bank App
+TXN9A2E2BE7C594,2025-01-01 12:55:21.000000000,10.0,ICICI Bank,ICICI Bank,gaganmore546@upi,e-commerce1354362@ybl,M01354,E-commerce,P2M,Success,,Maharashtra,Pune,Google Pay
+TXNDD6B7ACA9F93,2025-01-01 12:56:17.000000000,918.84,ICICI Bank,Union Bank of India,darikadani523@paytm,e-commerce355578@okaxis,M00355,E-commerce,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXNA70352978F62,2025-01-01 12:56:48.000000000,782.47,Axis Bank,Union Bank of India,aayushchada376@okicici,user76485@paytm,,P2P Transfer,P2P,Success,,Maharashtra,Pune,PhonePe
+TXN0A4961F4650D,2025-01-01 12:59:18.000000000,1999.36,State Bank of India,State Bank of India,advaydar798@ybl,e-commerce884613@ybl,M00884,E-commerce,P2M,Success,,Punjab,Amritsar,Google Pay
+TXN34AD07655F41,2025-01-01 13:01:30.000000000,904.27,Canara Bank,ICICI Bank,geetikagokhale297@upi,grocery1117467@oksbi,M01117,Grocery,P2M,Success,,Gujarat,Ahmedabad,Paytm
+TXN35884F73B5F0,2025-01-01 13:02:27.000000000,377.65,Kotak Mahindra Bank,ICICI Bank,abeersuresh890@okaxis,pharmacy280482@paytm,M00280,Pharmacy,P2M,Success,,Karnataka,Mangaluru,Google Pay
+TXN436F3B8E63F9,2025-01-01 13:03:13.000000000,815.36,Yes Bank,ICICI Bank,jeremiahganguly996@okaxis,pharmacy369907@okicici,M00369,Pharmacy,P2M,Success,,Telangana,Warangal,Bank App
+TXN4E54FCD1B473,2025-01-01 13:03:24.000000000,774.16,Axis Bank,Canara Bank,warinderluthra129@paytm,food965114@oksbi,M00965,Food Delivery,P2M,Success,,Telangana,Warangal,Google Pay
+TXN974C0CE325FD,2025-01-01 13:04:47.000000000,517.31,State Bank of India,Axis Bank,chakradharlala61@okhdfcbank,fuel967124@okhdfcbank,M00967,Fuel,P2M,Success,,Uttar Pradesh,Lucknow,PhonePe
+TXNDFA2582FE24B,2025-01-01 13:05:57.000000000,837.41,ICICI Bank,Axis Bank,shauryakapoor896@okhdfcbank,grocery236426@paytm,M00236,Grocery,P2M,Success,,Maharashtra,Nashik,Google Pay
+TXN8B792A9D47C7,2025-01-01 13:06:31.000000000,609.94,State Bank of India,Canara Bank,triyadoctor61@okhdfcbank,user57406@paytm,,P2P Transfer,P2P,Success,,Haryana,Gurugram,Google Pay
+TXN3F1700146F57,2025-01-01 13:09:35.000000000,1043.95,ICICI Bank,ICICI Bank,ayushmanprasad117@okhdfcbank,e-commerce1254784@okicici,M01254,E-commerce,P2M,Success,,Delhi,New Delhi,Google Pay
+TXNE62B8A27C29B,2025-01-01 13:10:43.000000000,1212.6,Bank of Baroda,Punjab National Bank,oshabiswas16@paytm,utility1106657@ybl,M01106,Utility Bills,P2M,Success,,Uttar Pradesh,Varanasi,Paytm
+TXNC44F89E9F498,2025-01-01 13:12:36.000000000,633.65,Canara Bank,State Bank of India,forumborah70@paytm,grocery1140274@paytm,M01140,Grocery,P2M,Success,,Haryana,Panipat,PhonePe
+TXN8087D8B63322,2025-01-01 13:12:42.000000000,451.23,Kotak Mahindra Bank,IndusInd Bank,udarshbath656@oksbi,fuel1251343@ybl,M01251,Fuel,P2M,Success,,Maharashtra,Pune,Google Pay
+TXNE6B752D93C0E,2025-01-01 13:14:09.000000000,430.93,Canara Bank,State Bank of India,wrideshmisra592@ybl,food662438@ybl,M00662,Food Delivery,P2M,Success,,Delhi,Rohini,PhonePe
+TXN76F2628D10EC,2025-01-01 13:14:10.000000000,412.7,State Bank of India,State Bank of India,falakcontractor308@upi,food8842@upi,M00088,Food Delivery,P2M,Success,,Tamil Nadu,Madurai,PhonePe
+TXN5ADC96F4767D,2025-01-01 13:15:46.000000000,876.34,HDFC Bank,HDFC Bank,ektaoak460@okicici,fuel1674238@paytm,M01674,Fuel,P2M,Success,,Gujarat,Ahmedabad,Google Pay
+TXNDF2FEF8DED7E,2025-01-01 13:15:49.000000000,1377.16,IndusInd Bank,Bank of Baroda,vaishnavivarma607@okhdfcbank,e-commerce1415457@okicici,M01415,E-commerce,P2M,Success,,Madhya Pradesh,Indore,Google Pay
+TXNBE85DF969421,2025-01-01 13:16:09.000000000,457.12,State Bank of India,Axis Bank,veergrover837@okicici,entertainment145653@paytm,M01456,Entertainment,P2M,Success,,Uttar Pradesh,Lucknow,PhonePe
+TXND13CCA4F01F4,2025-01-01 13:18:18.000000000,506.72,Axis Bank,HDFC Bank,ubikahayer536@okicici,food1296822@upi,M01296,Food Delivery,P2M,Success,,Tamil Nadu,Madurai,Google Pay
+TXNBB3C06333B11,2025-01-01 13:18:50.000000000,383.91,HDFC Bank,State Bank of India,jagdishravi659@okhdfcbank,pharmacy211183@okicici,M00211,Pharmacy,P2M,Success,,Gujarat,Ahmedabad,Google Pay
+TXN9D2CB8080FF1,2025-01-01 13:20:19.000000000,1263.26,HDFC Bank,State Bank of India,loganbal144@oksbi,e-commerce2074550@ybl,M02074,E-commerce,P2M,Success,,Telangana,Warangal,PhonePe
+TXN8AA8A6E771BC,2025-01-01 13:21:40.000000000,513.37,HDFC Bank,Bank of Baroda,imaranprakash448@okhdfcbank,food1730482@paytm,M01730,Food Delivery,P2M,Success,,West Bengal,Siliguri,Google Pay
+TXNE7242E28F1FF,2025-01-01 13:23:22.000000000,806.19,IndusInd Bank,ICICI Bank,balendrabava102@ybl,utility290641@paytm,M00290,Utility Bills,P2M,Success,,Bihar,Patna,PhonePe
+TXN3C15B1AB73EC,2025-01-01 13:25:15.000000000,1086.08,Bank of Baroda,ICICI Bank,upmabahl837@oksbi,utility95097@okaxis,M00950,Utility Bills,P2M,Success,,Uttar Pradesh,Noida,BHIM
+TXN443878AAA569,2025-01-01 13:25:52.000000000,616.7,Bank of Baroda,Canara Bank,niteshchhabra268@paytm,grocery542355@paytm,M00542,Grocery,P2M,Success,,Maharashtra,Pune,Paytm
+TXN13B561BDF99F,2025-01-01 13:27:21.000000000,737.79,Kotak Mahindra Bank,HDFC Bank,saraanand738@ybl,grocery968622@okaxis,M00968,Grocery,P2M,Success,,Madhya Pradesh,Bhopal,BHIM
+TXN5021FE86B36E,2025-01-01 13:27:50.000000000,617.33,HDFC Bank,Punjab National Bank,brijeshsingh752@paytm,fuel414969@paytm,M00414,Fuel,P2M,Success,,Gujarat,Ahmedabad,Google Pay
+TXNABC6BA97B089,2025-01-01 13:28:47.000000000,781.46,ICICI Bank,Bank of Baroda,hritikgala405@upi,fuel372460@oksbi,M00372,Fuel,P2M,Success,,Assam,Dibrugarh,Google Pay
+TXND2D77D53BE27,2025-01-01 13:28:55.000000000,12984.27,HDFC Bank,Yes Bank,aaravsinghal831@upi,travel1690257@okaxis,M01690,Travel,P2M,Success,,Delhi,Rohini,Bank App
+TXNC600A22E9439,2025-01-01 13:31:22.000000000,1700.78,State Bank of India,Kotak Mahindra Bank,vincentsankaran700@ybl,travel1835722@okhdfcbank,M01835,Travel,P2M,Success,,Assam,Guwahati,PhonePe
+TXNE51B5C369AAC,2025-01-01 13:31:28.000000000,702.33,HDFC Bank,Punjab National Bank,onide68@oksbi,grocery1853892@oksbi,M01853,Grocery,P2M,Success,,Tamil Nadu,Coimbatore,BHIM
+TXN2061B1B2A454,2025-01-01 13:32:40.000000000,871.84,Kotak Mahindra Bank,Yes Bank,vivaanverma991@okicici,fuel769234@upi,M00769,Fuel,P2M,Success,,West Bengal,Siliguri,PhonePe
+TXNAC5803F5E03D,2025-01-01 13:33:07.000000000,2242.56,HDFC Bank,State Bank of India,vincenthans321@okaxis,e-commerce452258@okaxis,M00452,E-commerce,P2M,Success,,Gujarat,Ahmedabad,PhonePe
+TXN2ACB882FF00B,2025-01-01 13:33:27.000000000,597.0,Axis Bank,ICICI Bank,chaitalybadami791@okaxis,grocery952673@oksbi,M00952,Grocery,P2M,Success,,Tamil Nadu,Coimbatore,Google Pay
+TXNB3458287D2A8,2025-01-01 13:33:31.000000000,307.85,State Bank of India,Bank of Baroda,vinayaahuja829@okicici,user29964@oksbi,,P2P Transfer,P2P,Success,,Tamil Nadu,Chennai,PhonePe
+TXN2451536B5D12,2025-01-01 13:34:04.000000000,388.56,ICICI Bank,HDFC Bank,jacobmerchant523@ybl,food583312@ybl,M00583,Food Delivery,P2M,Success,,Delhi,New Delhi,Google Pay
+TXNA9DC25F8A670,2025-01-01 13:34:05.000000000,1560.86,Canara Bank,Bank of Baroda,yahvirau194@oksbi,e-commerce1811922@okaxis,M01811,E-commerce,P2M,Success,,Gujarat,Surat,Google Pay
+TXN0FB32C3AB773,2025-01-01 13:34:14.000000000,1571.9,State Bank of India,HDFC Bank,samakshparmer631@paytm,utility110974@upi,M00110,Utility Bills,P2M,Success,,Uttar Pradesh,Kanpur,Google Pay
+TXN30A9DD386435,2025-01-01 13:35:13.000000000,489.51,Punjab National Bank,State Bank of India,janyanagarajan51@oksbi,fuel1565210@okhdfcbank,M01565,Fuel,P2M,Success,,Madhya Pradesh,Gwalior,Google Pay
+TXNAFD416871D28,2025-01-01 13:35:44.000000000,970.8,Kotak Mahindra Bank,ICICI Bank,lavanyanarasimhan82@oksbi,user58325@ybl,,P2P Transfer,P2P,Success,,West Bengal,Kolkata,Google Pay
+TXNB68BC9F8BD51,2025-01-01 13:38:41.000000000,941.3,Axis Bank,Bank of Baroda,ridhivenkatesh45@ybl,fuel806424@paytm,M00806,Fuel,P2M,Success,,Tamil Nadu,Chennai,Google Pay
+TXNED81579FEBFB,2025-01-01 13:41:29.000000000,582.71,Canara Bank,Punjab National Bank,dayamaichokshi578@okhdfcbank,food20568@okaxis,M02056,Food Delivery,P2M,Success,,Karnataka,Mysuru,Paytm
+TXNA85EBCC0B479,2025-01-01 13:43:29.969129511,785.62,Axis Bank,Union Bank of India,zehaandevan270@upi,user66866@ybl,,P2P Transfer,P2P,Success,,Assam,Guwahati,PhonePe
+TXNCFBF4BEA72B1,2025-01-01 13:43:41.421082786,364.52,Axis Bank,IndusInd Bank,zehaandevan270@upi,user51073@ybl,,P2P Transfer,P2P,Success,,Assam,Guwahati,Paytm
+TXNEF38DBBF67C1,2025-01-01 13:43:56.655268638,467.53,Axis Bank,Kotak Mahindra Bank,zehaandevan270@upi,user50852@ybl,,P2P Transfer,P2P,Success,,Assam,Guwahati,BHIM
+TXN566D733356D2,2025-01-01 13:44:13.000000000,657.67,Axis Bank,Axis Bank,nidrapalan211@okhdfcbank,food330943@paytm,M00330,Food Delivery,P2M,Success,,Maharashtra,Pune,Paytm
+TXN2CDD1367488D,2025-01-01 13:44:14.000000000,166.21,HDFC Bank,Axis Bank,leenaprashad309@paytm,user57286@paytm,,P2P Transfer,P2P,Success,,West Bengal,Siliguri,BHIM
+TXN670B9ACC2ABC,2025-01-01 13:45:16.000000000,282.7,Axis Bank,Yes Bank,jairajwason468@paytm,food623721@oksbi,M00623,Food Delivery,P2M,Success,,Karnataka,Mangaluru,PhonePe
+TXN3E66FE9204C2,2025-01-01 13:45:57.439783833,798.62,Axis Bank,Punjab National Bank,zehaandevan270@upi,user85246@ybl,,P2P Transfer,P2P,Success,,Assam,Guwahati,Google Pay
+TXNAE23E590DBF7,2025-01-01 13:46:21.000000000,176.69,State Bank of India,HDFC Bank,qarinkant172@okaxis,food1681894@paytm,M01681,Food Delivery,P2M,Success,,Karnataka,Mysuru,BHIM
+TXN2648E57AE096,2025-01-01 13:46:24.000000000,837.52,Punjab National Bank,Kotak Mahindra Bank,amritatoor251@ybl,e-commerce13982@okicici,M01398,E-commerce,P2M,Success,,Madhya Pradesh,Bhopal,Paytm
+TXND77B396B2244,2025-01-01 13:46:26.669656518,573.74,Axis Bank,ICICI Bank,zehaandevan270@upi,user93004@ybl,,P2P Transfer,P2P,Success,,Assam,Guwahati,Google Pay
+TXNE5B009FABA80,2025-01-01 13:46:31.000000000,716.45,HDFC Bank,State Bank of India,aarinibhat661@okaxis,grocery1834237@okhdfcbank,M01834,Grocery,P2M,Success,,Odisha,Bhubaneswar,BHIM
+TXN6A8525D7C850,2025-01-01 13:46:34.000000000,1430.02,ICICI Bank,HDFC Bank,kamyamangat495@paytm,e-commerce2025654@okhdfcbank,M02025,E-commerce,P2M,Failed,Insufficient balance,Delhi,Dwarka,PhonePe
